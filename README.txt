@@ -5,3 +5,5 @@
 跟着提示走即可
 
 现最新版本：ver1.0
+
+如有Bug,或Arc版本更新，请及时通知我。 karanoli142857@gmail.com
