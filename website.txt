@@ -1,0 +1,370 @@
+<Testify> <BYD> <https://wiki.arcaea.cn/images/thumb/2/22/Songs_testify.jpg/100px-Songs_testify.jpg>
+<Tempestissimo> <BYD> <https://wiki.arcaea.cn/images/thumb/a/ab/Songs_tempestissimo_byd.jpg/100px-Songs_tempestissimo_byd.jpg>
+<Pentiment> <BYD> <https://wiki.arcaea.cn/images/thumb/2/2d/Songs_pentiment.jpg/100px-Songs_pentiment.jpg>
+<Arcana Eden> <BYD> <https://wiki.arcaea.cn/images/thumb/5/5a/Songs_arcanaeden.jpg/100px-Songs_arcanaeden.jpg>
+<Grievous Lady> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7b/Songs_grievouslady.jpg/100px-Songs_grievouslady.jpg>
+<Fracture Ray> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1a/Songs_fractureray.jpg/100px-Songs_fractureray.jpg>
+<World Ender> <BYD> <https://wiki.arcaea.cn/images/thumb/4/43/Songs_worldender.jpg/100px-Songs_worldender.jpg>
+<Aegleseeker> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5a/Songs_aegleseeker.jpg/100px-Songs_aegleseeker.jpg>
+<SAIKYO STRONGER> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7b/Songs_saikyostronger.jpg/100px-Songs_saikyostronger.jpg>
+<PRAGMATISM -RESURRECTION-> <BYD> <https://wiki.arcaea.cn/images/thumb/4/4e/Songs_pragmatism_byd.jpg/100px-Songs_pragmatism_byd.jpg>
+<Dantalion> <FTR> <https://wiki.arcaea.cn/images/thumb/8/89/Songs_dantalion.jpg/100px-Songs_dantalion.jpg>
+<#1f1e33> <FTR> <https://wiki.arcaea.cn/images/thumb/b/be/Songs_ifi.jpg/100px-Songs_ifi.jpg>
+<BUCHiGiRE Berserker> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d7/Songs_buchigireberserker.jpg/100px-Songs_buchigireberserker.jpg>
+<Misdeed -la bonte de Dieu et l'origine du mal-> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_gou.jpg/100px-Songs_gou.jpg>
+<Infinite Strife,> <BYD> <https://wiki.arcaea.cn/images/thumb/d/d5/Songs_infinitestrife.jpg/100px-Songs_infinitestrife.jpg>
+<LAMIA> <FTR> <https://wiki.arcaea.cn/images/thumb/8/86/Songs_lamia.jpg/100px-Songs_lamia.jpg>
+<TEmPTaTiON> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c5/Songs_temptation.jpg/100px-Songs_temptation.jpg>
+<World Vanquisher> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c4/Songs_worldvanquisher.jpg/100px-Songs_worldvanquisher.jpg>
+<Ringed Genesis> <FTR> <https://wiki.arcaea.cn/images/thumb/b/bd/Songs_ringedgenesis.jpg/100px-Songs_ringedgenesis.jpg>
+<w4> <FTR> <https://wiki.arcaea.cn/images/thumb/a/af/Songs_omegafour.jpg/100px-Songs_omegafour.jpg>
+<Divine Light of Myriad> <FTR> <https://wiki.arcaea.cn/images/thumb/1/17/Songs_divinelight.jpg/100px-Songs_divinelight.jpg>
+<Heavensdoor> <BYD> <https://wiki.arcaea.cn/images/thumb/5/54/Songs_heavensdoor_byd.jpg/100px-Songs_heavensdoor_byd.jpg>
+<Testify> <FTR> <https://wiki.arcaea.cn/images/thumb/2/22/Songs_testify.jpg/100px-Songs_testify.jpg>
+<Spider's Thread> <FTR> <https://wiki.arcaea.cn/images/thumb/3/39/Songs_spidersthread.jpg/100px-Songs_spidersthread.jpg>
+<Axium Crisis> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f3/Songs_axiumcrisis.jpg/100px-Songs_axiumcrisis.jpg>
+<Singularity> <FTR> <https://wiki.arcaea.cn/images/thumb/2/29/Songs_singularity.jpg/100px-Songs_singularity.jpg>
+<Halcyon> <FTR> <https://wiki.arcaea.cn/images/thumb/b/ba/Songs_halcyon.jpg/100px-Songs_halcyon.jpg>
+<ouroboros -twin stroke of the end-> <FTR> <https://wiki.arcaea.cn/images/thumb/5/54/Songs_ouroboros.jpg/100px-Songs_ouroboros.jpg>
+<Cyaegha> <FTR> <https://wiki.arcaea.cn/images/thumb/9/93/Songs_cyaegha.jpg/100px-Songs_cyaegha.jpg>
+<Tempestissimo> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c8/Songs_tempestissimo.jpg/100px-Songs_tempestissimo.jpg>
+<AMAZING MIGHTYYYY!!!!> <FTR> <https://wiki.arcaea.cn/images/thumb/1/16/Songs_amazingmightyyyy.jpg/100px-Songs_amazingmightyyyy.jpg>
+<REKKA RESONANCE> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cd/Songs_rekkaresonance.jpg/100px-Songs_rekkaresonance.jpg>
+<GENOCIDER> <FTR> <https://wiki.arcaea.cn/images/thumb/4/42/Songs_genocider.jpg/100px-Songs_genocider.jpg>
+<Stasis> <FTR> <https://wiki.arcaea.cn/images/thumb/d/dd/Songs_stasis.jpg/100px-Songs_stasis.jpg>
+<PRIMITIVE LIGHTS> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c2/Songs_primitivelights.jpg/100px-Songs_primitivelights.jpg>
+<cyanine> <FTR> <https://wiki.arcaea.cn/images/thumb/3/3c/Songs_cyanine.jpg/100px-Songs_cyanine.jpg>
+<GLORY:ROAD> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c2/Songs_gloryroad.jpg/100px-Songs_gloryroad.jpg>
+<corps-sans-organes> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b1/Songs_corpssansorganes.jpg/100px-Songs_corpssansorganes.jpg>
+<AttraqtiA> <FTR> <https://wiki.arcaea.cn/images/thumb/0/02/Songs_attraqtia.jpg/100px-Songs_attraqtia.jpg>
+<Overwhelm> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2a/Songs_overwhelm.jpg/100px-Songs_overwhelm.jpg>
+<Seclusion> <FTR> <https://wiki.arcaea.cn/images/thumb/7/79/Songs_seclusion.jpg/100px-Songs_seclusion.jpg>
+<Sheriruth (Laur Remix)> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9b/Songs_sheriruthrmx.jpg/100px-Songs_sheriruthrmx.jpg>
+<Live Fast Die Young> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b1/Songs_livefastdieyoung.jpg/100px-Songs_livefastdieyoung.jpg>
+<NULL APOPHENIA> <FTR> <https://wiki.arcaea.cn/images/thumb/d/db/Songs_nullapophenia.jpg/100px-Songs_nullapophenia.jpg>
+<Manic Jeer> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_manicjeer.jpg/100px-Songs_manicjeer.jpg>
+<Last Celebration> <FTR> <https://wiki.arcaea.cn/images/thumb/9/92/Songs_lastcelebration.jpg/100px-Songs_lastcelebration.jpg>
+<Lightning Screw> <FTR> <https://wiki.arcaea.cn/images/thumb/3/31/Songs_lightningscrew.jpg/100px-Songs_lightningscrew.jpg>
+<overdead.> <BYD> <https://wiki.arcaea.cn/images/thumb/d/d9/Songs_overdead.jpg/100px-Songs_overdead.jpg>
+<Aurgelmir> <FTR> <https://wiki.arcaea.cn/images/thumb/d/df/Songs_aurgelmir.jpg/100px-Songs_aurgelmir.jpg>
+<Arcana Eden> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5a/Songs_arcanaeden.jpg/100px-Songs_arcanaeden.jpg>
+<Good bye, Merry-Go-Round.> <FTR> <https://wiki.arcaea.cn/images/thumb/4/41/Songs_goodbyemerry.jpg/100px-Songs_goodbyemerry.jpg>
+<trappola bewitching> <BYD> <https://wiki.arcaea.cn/images/thumb/8/8b/Songs_trappola_byd.jpg/100px-Songs_trappola_byd.jpg>
+<guardina> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d3/Songs_guardina.jpg/100px-Songs_guardina.jpg>
+<Tiferet> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f6/Songs_tiferet.jpg/100px-Songs_tiferet.jpg>
+<Garakuta Doll Play> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b5/Songs_garakuta.jpg/100px-Songs_garakuta.jpg>
+<Ikazuchi> <FTR> <https://wiki.arcaea.cn/images/thumb/6/6d/Songs_ikazuchi.jpg/100px-Songs_ikazuchi.jpg>
+<Valhalla:0> <FTR> <https://wiki.arcaea.cn/images/thumb/9/95/Songs_valhallazero.jpg/100px-Songs_valhallazero.jpg>
+<Felis> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4b/Songs_felis.jpg/100px-Songs_felis.jpg>
+<Climax> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b5/Songs_climax.jpg/100px-Songs_climax.jpg>
+<GIMME DA BLOOD> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c9/Songs_gimmedablood.jpg/100px-Songs_gimmedablood.jpg>
+<Kissing Lucifer> <FTR> <https://wiki.arcaea.cn/images/thumb/4/41/Songs_kissinglucifer.jpg/100px-Songs_kissinglucifer.jpg>
+<Singularity VVVIP> <BYD> <https://wiki.arcaea.cn/images/thumb/7/70/Songs_singularityvvvip.jpg/100px-Songs_singularityvvvip.jpg>
+<PUPA> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e2/Songs_pupa.jpg/100px-Songs_pupa.jpg>
+<Chronicle> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7f/Songs_chronicle.jpg/100px-Songs_chronicle.jpg>
+<Crimson Throne> <FTR> <https://wiki.arcaea.cn/images/thumb/b/bf/Songs_crimsonthrone.jpg/100px-Songs_crimsonthrone.jpg>
+<[X]> <FTR> <https://wiki.arcaea.cn/images/thumb/9/90/Songs_infinity.jpg/100px-Songs_infinity.jpg>
+<IMPACT> <BYD> <https://wiki.arcaea.cn/images/thumb/6/6a/Songs_impact.jpg/100px-Songs_impact.jpg>
+<Nirv lucE> <FTR> <https://wiki.arcaea.cn/images/thumb/3/31/Songs_nirvluce.jpg/100px-Songs_nirvluce.jpg>
+<Metallic Punisher> <FTR> <https://wiki.arcaea.cn/images/thumb/4/41/Songs_metallicpunisher.jpg/100px-Songs_metallicpunisher.jpg>
+<Ether Strike> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b2/Songs_etherstrike.jpg/100px-Songs_etherstrike.jpg>
+<IZANA> <FTR> <https://wiki.arcaea.cn/images/thumb/4/41/Songs_izana.jpg/100px-Songs_izana.jpg>
+<To: Alice Liddell> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a8/Songs_toaliceliddell.jpg/100px-Songs_toaliceliddell.jpg>
+<Viyella's Tears> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8e/Songs_viyellastears.jpg/100px-Songs_viyellastears.jpg>
+<Pentiment> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2d/Songs_pentiment.jpg/100px-Songs_pentiment.jpg>
+<Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2c/Songs_hiirogekka.jpg/100px-Songs_hiirogekka.jpg>
+<aterlbus> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cc/Songs_aterlbus.jpg/100px-Songs_aterlbus.jpg>
+<conflict> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4e/Songs_conflict.jpg/100px-Songs_conflict.jpg>
+<Malicious Mischance> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d6/Songs_maliciousmischance.jpg/100px-Songs_maliciousmischance.jpg>
+<Loschen> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0b/Songs_loschen.jpg/100px-Songs_loschen.jpg>
+<Quon8> <BYD> <https://wiki.arcaea.cn/images/thumb/6/61/Songs_quonwacca.jpg/100px-Songs_quonwacca.jpg>
+<G e n g a o z o> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a7/Songs_gengaozo.jpg/100px-Songs_gengaozo.jpg>
+<Redolent Shape> <FTR> <https://wiki.arcaea.cn/images/thumb/4/46/Songs_redolentshape.jpg/100px-Songs_redolentshape.jpg>
+<Medusa> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_medusa.jpg/100px-Songs_medusa.jpg>
+<NEO WINGS> <FTR> <https://wiki.arcaea.cn/images/thumb/3/34/Songs_neowings.jpg/100px-Songs_neowings.jpg>
+<OMAKENO Stroke> <BYD> <https://wiki.arcaea.cn/images/thumb/b/bd/Songs_omakeno.jpg/100px-Songs_omakeno.jpg>
+<Capella> <FTR> <https://wiki.arcaea.cn/images/thumb/1/14/Songs_capella.jpg/100px-Songs_capella.jpg>
+<PRAGMATISM> <FTR> <https://wiki.arcaea.cn/images/thumb/2/24/Songs_pragmatism.jpg/100px-Songs_pragmatism.jpg>
+<Sheriruth> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0f/Songs_sheriruth.jpg/100px-Songs_sheriruth.jpg>
+<Scarlet Lance> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e0/Songs_scarletlance.jpg/100px-Songs_scarletlance.jpg>
+<lastendconductor> <BYD> <https://wiki.arcaea.cn/images/thumb/2/25/Songs_lastendconductor.jpg/100px-Songs_lastendconductor.jpg>
+<Party Vinyl> <BYD> <https://wiki.arcaea.cn/images/thumb/f/f0/Songs_partyvinyl_byd.jpg/100px-Songs_partyvinyl_byd.jpg>
+<Trrricksters!!> <FTR> <https://wiki.arcaea.cn/images/thumb/1/15/Songs_trrricksters.jpg/100px-Songs_trrricksters.jpg>
+<Modelista> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7c/Songs_modelista.jpg/100px-Songs_modelista.jpg>
+<trappola bewitching> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a2/Songs_trappola.jpg/100px-Songs_trappola.jpg>
+<Alexandrite> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7f/Songs_alexandrite.jpg/100px-Songs_alexandrite.jpg>
+<Vicious Heroism> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e9/Songs_viciousheroism.jpg/100px-Songs_viciousheroism.jpg>
+<Mirzam> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a4/Songs_mirzam.jpg/100px-Songs_mirzam.jpg>
+<Xanatos> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f2/Songs_xanatos.jpg/100px-Songs_xanatos.jpg>
+<Oshama Scramble!> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f4/Songs_oshamascramble.jpg/100px-Songs_oshamascramble.jpg>
+<Bamboo> <FTR> <https://wiki.arcaea.cn/images/thumb/2/26/Songs_take.jpg/100px-Songs_take.jpg>
+<Bookmaker (2D Version)> <BYD> <https://wiki.arcaea.cn/images/thumb/2/2f/Songs_bookmaker_byd.jpg/100px-Songs_bookmaker_byd.jpg>
+<HIVEMIND> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a7/Songs_hivemind.jpg/100px-Songs_hivemind.jpg>
+<Red and Blue and Green> <BYD> <https://wiki.arcaea.cn/images/thumb/c/c9/Songs_redandblueandgreen.jpg/100px-Songs_redandblueandgreen.jpg>
+<Free Myself> <FTR> <https://wiki.arcaea.cn/images/thumb/b/ba/Songs_freemyself.jpg/100px-Songs_freemyself.jpg>
+<SOUNDWiTCH> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4b/Songs_soundwitch.jpg/100px-Songs_soundwitch.jpg>
+<Nhelv> <FTR> <https://wiki.arcaea.cn/images/thumb/2/27/Songs_nhelv.jpg/100px-Songs_nhelv.jpg>
+<Heavensdoor> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7e/Songs_heavensdoor.jpg/100px-Songs_heavensdoor.jpg>
+<Antagonism> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e5/Songs_antagonism.jpg/100px-Songs_antagonism.jpg>
+<Arcahv> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b3/Songs_arcahv.jpg/100px-Songs_arcahv.jpg>
+<Dement ~after legend~> <BYD> <https://wiki.arcaea.cn/images/thumb/5/57/Songs_dement_byd.jpg/100px-Songs_dement_byd.jpg>
+<7thSense> <FTR> <https://wiki.arcaea.cn/images/thumb/f/fb/Songs_seventhsense.jpg/100px-Songs_seventhsense.jpg>
+<La'qryma of the Wasteland> <BYD> <https://wiki.arcaea.cn/images/thumb/0/0b/Songs_laqryma_byd.jpg/100px-Songs_laqryma_byd.jpg>
+<Summer Fireworks of Love> <FTR> <https://wiki.arcaea.cn/images/thumb/1/19/Songs_summerfireworks.jpg/100px-Songs_summerfireworks.jpg>
+<Ignotus Afterburn> <BYD> <https://wiki.arcaea.cn/images/thumb/e/ee/Songs_ignotusafterburn.jpg/100px-Songs_ignotusafterburn.jpg>
+<Trap Crow> <FTR> <https://wiki.arcaea.cn/images/thumb/b/bd/Songs_trapcrow.jpg/100px-Songs_trapcrow.jpg>
+<Infinite Strife,> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d5/Songs_infinitestrife.jpg/100px-Songs_infinitestrife.jpg>
+<World Ender> <FTR> <https://wiki.arcaea.cn/images/thumb/4/43/Songs_worldender.jpg/100px-Songs_worldender.jpg>
+<Astra walkthrough> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4e/Songs_astrawalkthrough.jpg/100px-Songs_astrawalkthrough.jpg>
+<MAXRAGE> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b9/Songs_maxrage.jpg/100px-Songs_maxrage.jpg>
+<Genesis> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cc/Songs_genesischunithm.jpg/100px-Songs_genesischunithm.jpg>
+<The Survivor (Game Edit)> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1c/Songs_thesurvivor.jpg/100px-Songs_thesurvivor.jpg>
+<New York Back Raise> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a3/Songs_newyorkbackraise.jpg/100px-Songs_newyorkbackraise.jpg>
+<Memory Forest> <FTR> <https://wiki.arcaea.cn/images/thumb/2/21/Songs_memoryforest.jpg/100px-Songs_memoryforest.jpg>
+<Linear Accelerator> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7f/Songs_linearaccelerator.jpg/100px-Songs_linearaccelerator.jpg>
+<DX Choseinou Full Metal Shojo> <FTR> <https://wiki.arcaea.cn/images/thumb/f/fb/Songs_dxfullmetal.jpg/100px-Songs_dxfullmetal.jpg>
+<Black Territory> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9d/Songs_blackterritory.jpg/100px-Songs_blackterritory.jpg>
+<Corruption> <FTR> <https://wiki.arcaea.cn/images/thumb/1/18/Songs_corruption.jpg/100px-Songs_corruption.jpg>
+<Heavenly caress> <FTR> <https://wiki.arcaea.cn/images/thumb/9/94/Songs_heavenlycaress.jpg/100px-Songs_heavenlycaress.jpg>
+<Einherjar Joker> <FTR> <https://wiki.arcaea.cn/images/thumb/e/ef/Songs_einherjar.jpg/100px-Songs_einherjar.jpg>
+<Lost Desire> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5b/Songs_lostdesire.jpg/100px-Songs_lostdesire.jpg>
+<GOODTEK (Arcaea Edit)> <BYD> <https://wiki.arcaea.cn/images/thumb/6/60/Songs_goodtek_byd.jpg/100px-Songs_goodtek_byd.jpg>
+<Scarlet Cage> <FTR> <https://wiki.arcaea.cn/images/thumb/1/15/Songs_scarletcage.jpg/100px-Songs_scarletcage.jpg>
+<Got hive of Ra> <FTR> <https://wiki.arcaea.cn/images/thumb/d/db/Songs_gothiveofra.jpg/100px-Songs_gothiveofra.jpg>
+<Galaxy Friends> <FTR> <https://wiki.arcaea.cn/images/thumb/5/59/Songs_galaxyfriends.jpg/100px-Songs_galaxyfriends.jpg>
+<Xeraphinite> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e9/Songs_xeraphinite.jpg/100px-Songs_xeraphinite.jpg>
+<Lost Civilization> <BYD> <https://wiki.arcaea.cn/images/thumb/a/a7/Songs_lostcivilization_byd.jpg/100px-Songs_lostcivilization_byd.jpg>
+<Far Away Light> <FTR> <https://wiki.arcaea.cn/images/thumb/0/01/Songs_farawaylight.jpg/100px-Songs_farawaylight.jpg>
+<THE ULTIMACY> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9f/Songs_theultimacy.jpg/100px-Songs_theultimacy.jpg>
+<Ascent> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7b/Songs_ascent.jpg/100px-Songs_ascent.jpg>
+<Kanagawa Cyber Culvert> <BYD> <https://wiki.arcaea.cn/images/thumb/4/46/Songs_kanagawa_byd.jpg/100px-Songs_kanagawa_byd.jpg>
+<Haze of Autumn> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0b/Songs_akinokagerou.jpg/100px-Songs_akinokagerou.jpg>
+<init()> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e6/Songs_init.jpg/100px-Songs_init.jpg>
+<Macrocosmic Modulation> <FTR> <https://wiki.arcaea.cn/images/thumb/3/3c/Songs_macromod.jpg/100px-Songs_macromod.jpg>
+<Protoflicker> <FTR> <https://wiki.arcaea.cn/images/thumb/8/86/Songs_protoflicker.jpg/100px-Songs_protoflicker.jpg>
+<Defection> <FTR> <https://wiki.arcaea.cn/images/thumb/6/6b/Songs_defection.jpg/100px-Songs_defection.jpg>
+<Callima Karma> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b3/Songs_callimakarma.jpg/100px-Songs_callimakarma.jpg>
+<Ai Drew> <FTR> <https://wiki.arcaea.cn/images/thumb/e/ee/Songs_aidrew.jpg/100px-Songs_aidrew.jpg>
+<FLUFFY FLASH> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8a/Songs_fluffyflash.jpg/100px-Songs_fluffyflash.jpg>
+<FREEF4LL> <BYD> <https://wiki.arcaea.cn/images/thumb/d/da/Songs_freefall_byd.jpg/100px-Songs_freefall_byd.jpg>
+<World Fragments III(radio edit)> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_worldfragments.jpg/100px-Songs_worldfragments.jpg>
+<Lethaeus> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9e/Songs_lethaeus.jpg/100px-Songs_lethaeus.jpg>
+<The Message> <FTR> <https://wiki.arcaea.cn/images/thumb/3/35/Songs_themessage.jpg/100px-Songs_themessage.jpg>
+<Sulfur> <FTR> <https://wiki.arcaea.cn/images/thumb/0/00/Songs_sulfur.jpg/100px-Songs_sulfur.jpg>
+<SUPERNOVA> <FTR> <https://wiki.arcaea.cn/images/thumb/9/99/Songs_supernova.jpg/100px-Songs_supernova.jpg>
+<Dreadnought> <FTR> <https://wiki.arcaea.cn/images/thumb/1/18/Songs_dreadnought.jpg/100px-Songs_dreadnought.jpg>
+<Monochrome Princess> <FTR> <https://wiki.arcaea.cn/images/thumb/6/65/Songs_monochromeprincess.jpg/100px-Songs_monochromeprincess.jpg>
+<Filament> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2e/Songs_filament.jpg/100px-Songs_filament.jpg>
+<BATTLE NO.1> <FTR> <https://wiki.arcaea.cn/images/thumb/7/76/Songs_battlenoone.jpg/100px-Songs_battlenoone.jpg>
+<BLRINK> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e8/Songs_blrink.jpg/100px-Songs_blrink.jpg>
+<amygdata> <FTR> <https://wiki.arcaea.cn/images/thumb/1/15/Songs_amygdata.jpg/100px-Songs_amygdata.jpg>
+<Black Lotus> <FTR> <https://wiki.arcaea.cn/images/thumb/3/3a/Songs_blacklotus.jpg/100px-Songs_blacklotus.jpg>
+<Altale> <FTR> <https://wiki.arcaea.cn/images/thumb/7/73/Songs_altale.jpg/100px-Songs_altale.jpg>
+<BADTEK> <FTR> <https://wiki.arcaea.cn/images/thumb/9/95/Songs_badtek.jpg/100px-Songs_badtek.jpg>
+<Heart Jackin&#39;> <FTR> <https://wiki.arcaea.cn/images/thumb/2/22/Songs_heartjackin.jpg/100px-Songs_heartjackin.jpg>
+<Dazzle hop> <FTR> <https://wiki.arcaea.cn/images/thumb/6/61/Songs_dazzlehop.jpg/100px-Songs_dazzlehop.jpg>
+<Moonheart> <BYD> <https://wiki.arcaea.cn/images/thumb/d/d1/Songs_moonheart_byd.jpg/100px-Songs_moonheart_byd.jpg>
+<Vandalism> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a6/Songs_vandalism.jpg/100px-Songs_vandalism.jpg>
+<AlterAle> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b3/Songs_alterale.jpg/100px-Songs_alterale.jpg>
+<Mazy Metroplex> <FTR> <https://wiki.arcaea.cn/images/thumb/a/ac/Songs_mazymetroplex.jpg/100px-Songs_mazymetroplex.jpg>
+<Goldenslaughterer> <FTR> <https://wiki.arcaea.cn/images/thumb/7/75/Songs_goldenslaughterer.jpg/100px-Songs_goldenslaughterer.jpg>
+<qualia -ideaesthesia-> <BYD> <https://wiki.arcaea.cn/images/thumb/4/4b/Songs_qualia_byd.jpg/100px-Songs_qualia_byd.jpg>
+<neo kosmo> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cf/Songs_neokosmo.jpg/100px-Songs_neokosmo.jpg>
+<u> <FTR> <https://wiki.arcaea.cn/images/thumb/0/02/Songs_mu.jpg/100px-Songs_mu.jpg>
+<Last ~ Eternity> <BYD> <https://wiki.arcaea.cn/images/thumb/a/a9/Songs_lasteternity_byd.jpg/100px-Songs_lasteternity_byd.jpg>
+<Let's Rock (Arcaea mix)> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c9/Songs_letsrock.jpg/100px-Songs_letsrock.jpg>
+<Teriqma> <BYD> <https://wiki.arcaea.cn/images/thumb/f/fc/Songs_teriqma.jpg/100px-Songs_teriqma.jpg>
+<Quon9> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4a/Songs_quon.jpg/100px-Songs_quon.jpg>
+<carmine:scythe> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1d/Songs_carminescythe.jpg/100px-Songs_carminescythe.jpg>
+<Fallensquare> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e6/Songs_fallensquare.jpg/100px-Songs_fallensquare.jpg>
+<LunarOrbit -believe in the Espebranch road-> <FTR> <https://wiki.arcaea.cn/images/thumb/6/6c/Songs_espebranch.jpg/100px-Songs_espebranch.jpg>
+<Astral tale> <FTR> <https://wiki.arcaea.cn/images/thumb/2/27/Songs_astraltale.jpg/100px-Songs_astraltale.jpg>
+<Vindication> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4d/Songs_vindication.jpg/100px-Songs_vindication.jpg>
+<A Wandering Melody of Love> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b4/Songs_melodyoflove.jpg/100px-Songs_melodyoflove.jpg>
+<Avant Raze> <FTR> <https://wiki.arcaea.cn/images/thumb/1/19/Songs_avantraze.jpg/100px-Songs_avantraze.jpg>
+<Infinity Heaven> <BYD> <https://wiki.arcaea.cn/images/thumb/9/99/Songs_infinityheaven_byd.jpg/100px-Songs_infinityheaven_byd.jpg>
+<Purgatorium> <BYD> <https://wiki.arcaea.cn/images/thumb/f/f6/Songs_purgatorium_byd.jpg/100px-Songs_purgatorium_byd.jpg>
+<Purple Verse> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f3/Songs_purpleverse.jpg/100px-Songs_purpleverse.jpg>
+<Lazy Addiction> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b3/Songs_lazyaddiction.jpg/100px-Songs_lazyaddiction.jpg>
+<next to you> <BYD> <https://wiki.arcaea.cn/images/thumb/1/12/Songs_nexttoyou_byd.jpg/100px-Songs_nexttoyou_byd.jpg>
+<ENERGY SYNERGY MATRIX> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a5/Songs_energysynergymatrix.jpg/100px-Songs_energysynergymatrix.jpg>
+<Loveless Dress> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_lovelessdress.jpg/100px-Songs_lovelessdress.jpg>
+<Last ~ Moment> <BYD> <https://wiki.arcaea.cn/images/thumb/1/1e/Songs_last_byd.jpg/100px-Songs_last_byd.jpg>
+<IMPACT> <FTR> <https://wiki.arcaea.cn/images/thumb/6/6a/Songs_impact.jpg/100px-Songs_impact.jpg>
+<DataErr0r> <FTR> <https://wiki.arcaea.cn/images/thumb/7/79/Songs_dataerror.jpg/100px-Songs_dataerror.jpg>
+<Specta> <FTR> <https://wiki.arcaea.cn/images/thumb/3/32/Songs_specta.jpg/100px-Songs_specta.jpg>
+<Cybernecia Catharsis> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4f/Songs_cyberneciacatharsis.jpg/100px-Songs_cyberneciacatharsis.jpg>
+<Illegal Paradise> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1c/Songs_darakunosono.jpg/100px-Songs_darakunosono.jpg>
+<Fracture Ray> <PRS> <https://wiki.arcaea.cn/images/thumb/1/1a/Songs_fractureray.jpg/100px-Songs_fractureray.jpg>
+<dropdead> <PRS> <https://wiki.arcaea.cn/images/thumb/d/de/Songs_dropdead.jpg/100px-Songs_dropdead.jpg>
+<STAGER (ALL STAGE CLEAR)> <FTR> <https://wiki.arcaea.cn/images/thumb/d/de/Songs_stager.jpg/100px-Songs_stager.jpg>
+<OMAKENO Stroke> <FTR> <https://wiki.arcaea.cn/images/thumb/b/bd/Songs_omakeno.jpg/100px-Songs_omakeno.jpg>
+<Fairytale> <BYD> <https://wiki.arcaea.cn/images/thumb/8/8c/Songs_fairytale_byd.jpg/100px-Songs_fairytale_byd.jpg>
+<Tempestissimo> <PRS> <https://wiki.arcaea.cn/images/thumb/c/c8/Songs_tempestissimo.jpg/100px-Songs_tempestissimo.jpg>
+<MAHOROBA> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d1/Songs_mahoroba.jpg/100px-Songs_mahoroba.jpg>
+<Lumia> <BYD> <https://wiki.arcaea.cn/images/thumb/0/0f/Songs_lumia_byd.jpg/100px-Songs_lumia_byd.jpg>
+<OAYEEEIA> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b1/Songs_odysseia.jpg/100px-Songs_odysseia.jpg>
+<Evening in Scarlet> <FTR> <https://wiki.arcaea.cn/images/thumb/1/19/Songs_eveninginscarlet.jpg/100px-Songs_eveninginscarlet.jpg>
+<Antithese> <BYD> <https://wiki.arcaea.cn/images/thumb/c/c8/Songs_antithese_byd.jpg/100px-Songs_antithese_byd.jpg>
+<NULCTRL> <FTR> <https://wiki.arcaea.cn/images/thumb/6/66/Songs_nulctrl.jpg/100px-Songs_nulctrl.jpg>
+<GIMMICK> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a5/Songs_gimmick.jpg/100px-Songs_gimmick.jpg>
+<Party Vinyl> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4c/Songs_partyvinyl.jpg/100px-Songs_partyvinyl.jpg>
+<CROSS SOUL> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1d/Songs_crosssoul.jpg/100px-Songs_crosssoul.jpg>
+<Your voice so... feat. Such> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b8/Songs_yourvoiceso.jpg/100px-Songs_yourvoiceso.jpg>
+<Impure Bird> <FTR> <https://wiki.arcaea.cn/images/thumb/4/48/Songs_impurebird.jpg/100px-Songs_impurebird.jpg>
+<Dreamin' Attraction!!> <FTR> <https://wiki.arcaea.cn/images/thumb/1/15/Songs_dreaminattraction.jpg/100px-Songs_dreaminattraction.jpg>
+<Red and Blue> <FTR> <https://wiki.arcaea.cn/images/thumb/a/ac/Songs_redandblue.jpg/100px-Songs_redandblue.jpg>
+<Yosakura Fubuki> <FTR> <https://wiki.arcaea.cn/images/thumb/8/80/Songs_yozakurafubuki.jpg/100px-Songs_yozakurafubuki.jpg>
+<Be There> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4a/Songs_bethere.jpg/100px-Songs_bethere.jpg>
+<VECTOR> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b7/Songs_vector.jpg/100px-Songs_vector.jpg>
+<AI[UE]OON> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a4/Songs_aiueoon.jpg/100px-Songs_aiueoon.jpg>
+<SAIKYO STRONGER> <PRS> <https://wiki.arcaea.cn/images/thumb/7/7b/Songs_saikyostronger.jpg/100px-Songs_saikyostronger.jpg>
+<Equilibrium> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b9/Songs_equilibrium.jpg/100px-Songs_equilibrium.jpg>
+<Teriqma> <FTR> <https://wiki.arcaea.cn/images/thumb/f/fc/Songs_teriqma.jpg/100px-Songs_teriqma.jpg>
+<CROSS OVER> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c2/Songs_crossover.jpg/100px-Songs_crossover.jpg>
+<Lapis> <FTR> <https://wiki.arcaea.cn/images/thumb/e/ea/Songs_lapis.jpg/100px-Songs_lapis.jpg>
+<Crystal Gravity> <FTR> <https://wiki.arcaea.cn/images/thumb/7/71/Songs_crystalgravity.jpg/100px-Songs_crystalgravity.jpg>
+<With U> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b0/Songs_withu.jpg/100px-Songs_withu.jpg>
+<Let you DIVE! (nitro rmx)> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d1/Songs_letyoudivermx.jpg/100px-Songs_letyoudivermx.jpg>
+<lastendconductor> <FTR> <https://wiki.arcaea.cn/images/thumb/2/25/Songs_lastendconductor.jpg/100px-Songs_lastendconductor.jpg>
+<Final Step!> <FTR> <https://wiki.arcaea.cn/images/thumb/5/59/Songs_finalstep.jpg/100px-Songs_finalstep.jpg>
+<MERLIN> <BYD> <https://wiki.arcaea.cn/images/thumb/c/cb/Songs_merlin.jpg/100px-Songs_merlin.jpg>
+<Head BONK ache> <FTR> <https://wiki.arcaea.cn/images/thumb/8/84/Songs_headbonkache.jpg/100px-Songs_headbonkache.jpg>
+<Testify> <PRS> <https://wiki.arcaea.cn/images/thumb/2/22/Songs_testify.jpg/100px-Songs_testify.jpg>
+<GOODTEK (Arcaea Edit)> <FTR> <https://wiki.arcaea.cn/images/thumb/5/53/Songs_goodtek.jpg/100px-Songs_goodtek.jpg>
+<Oracle> <FTR> <https://wiki.arcaea.cn/images/thumb/6/69/Songs_oracle.jpg/100px-Songs_oracle.jpg>
+<Ignotus> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0a/Songs_ignotus.jpg/100px-Songs_ignotus.jpg>
+<Auxesia> <FTR> <https://wiki.arcaea.cn/images/thumb/5/54/Songs_auxesia.jpg/100px-Songs_auxesia.jpg>
+<Grievous Lady> <PRS> <https://wiki.arcaea.cn/images/thumb/7/7b/Songs_grievouslady.jpg/100px-Songs_grievouslady.jpg>
+<Syro> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_syro.jpg/100px-Songs_syro.jpg>
+<Blaster> <FTR> <https://wiki.arcaea.cn/images/thumb/5/51/Songs_blaster.jpg/100px-Songs_blaster.jpg>
+<Feels So Right feat. Renko> <FTR> <https://wiki.arcaea.cn/images/thumb/5/52/Songs_feelssoright.jpg/100px-Songs_feelssoright.jpg>
+<Glow> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0c/Songs_glow.jpg/100px-Songs_glow.jpg>
+<Can I Friend You on Bassbook? Lol> <FTR> <https://wiki.arcaea.cn/images/thumb/3/36/Songs_bassline.jpg/100px-Songs_bassline.jpg>
+<False Embellishment> <FTR> <https://wiki.arcaea.cn/images/thumb/2/24/Songs_kyogenkigo.jpg/100px-Songs_kyogenkigo.jpg>
+<Blocked Library> <FTR> <https://wiki.arcaea.cn/images/thumb/6/60/Songs_blockedlibrary.jpg/100px-Songs_blockedlibrary.jpg>
+<Sakura Fubuki> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d3/Songs_sakurafubuki.jpg/100px-Songs_sakurafubuki.jpg>
+<PICO-Pico-Translation!> <FTR> <https://wiki.arcaea.cn/images/thumb/2/23/Songs_picopicotranslation.jpg/100px-Songs_picopicotranslation.jpg>
+<Heart> <FTR> <https://wiki.arcaea.cn/images/thumb/d/df/Songs_kokoro.jpg/100px-Songs_kokoro.jpg>
+<MANTIS (Arcaea Ultra-Bloodrush VIP)> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b5/Songs_mantis.jpg/100px-Songs_mantis.jpg>
+<Lost Emotion feat. nomico> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a1/Songs_lostemotion.jpg/100px-Songs_lostemotion.jpg>
+<Lost Civilization> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b4/Songs_lostcivilization.jpg/100px-Songs_lostcivilization.jpg>
+<Anokumene> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b6/Songs_anokumene.jpg/100px-Songs_anokumene.jpg>
+<Strongholds> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e7/Songs_strongholds.jpg/100px-Songs_strongholds.jpg>
+<Rugie> <FTR> <https://wiki.arcaea.cn/images/thumb/0/01/Songs_rugie.jpg/100px-Songs_rugie.jpg>
+<Phantasia> <FTR> <https://wiki.arcaea.cn/images/thumb/7/79/Songs_phantasia.jpg/100px-Songs_phantasia.jpg>
+<Libertas> <FTR> <https://wiki.arcaea.cn/images/thumb/a/ad/Songs_libertas.jpg/100px-Songs_libertas.jpg>
+<#1f1e33> <PRS> <https://wiki.arcaea.cn/images/thumb/b/be/Songs_ifi.jpg/100px-Songs_ifi.jpg>
+<Alice a la mode> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_alicealamode.jpg/100px-Songs_alicealamode.jpg>
+<Dancin' on a Cat's Paw> <FTR> <https://wiki.arcaea.cn/images/thumb/3/37/Songs_nekonote.jpg/100px-Songs_nekonote.jpg>
+<Redraw the Colorless World> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d5/Songs_mukishitsu.jpg/100px-Songs_mukishitsu.jpg>
+<Cocoro*cosmetic> <FTR> <https://wiki.arcaea.cn/images/thumb/d/dc/Songs_cocorocosmetic.jpg/100px-Songs_cocorocosmetic.jpg>
+<Qualia -ideaesthesia-> <FTR> <https://wiki.arcaea.cn/images/thumb/9/97/Songs_qualia.jpg/100px-Songs_qualia.jpg>
+<Essence of Twilight> <FTR> <https://wiki.arcaea.cn/images/thumb/7/77/Songs_essenceoftwilight.jpg/100px-Songs_essenceoftwilight.jpg>
+<Iconoclast> <FTR> <https://wiki.arcaea.cn/images/thumb/7/76/Songs_iconoclast.jpg/100px-Songs_iconoclast.jpg>
+<Dropdead> <FTR> <https://wiki.arcaea.cn/images/thumb/d/de/Songs_dropdead.jpg/100px-Songs_dropdead.jpg>
+<La'qryma of the Wasteland> <FTR> <https://wiki.arcaea.cn/images/thumb/4/43/Songs_laqryma.jpg/100px-Songs_laqryma.jpg>
+<Faint Light (Arcaea Edit)> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9b/Songs_faintlight.jpg/100px-Songs_faintlight.jpg>
+<Alice's Suitcase> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a8/Songs_alicessuitcase.jpg/100px-Songs_alicessuitcase.jpg>
+<Life is PIANO> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f4/Songs_lifeispiano.jpg/100px-Songs_lifeispiano.jpg>
+<Aegleseeker> <PRS> <https://wiki.arcaea.cn/images/thumb/5/5a/Songs_aegleseeker.jpg/100px-Songs_aegleseeker.jpg>
+<Small Cloud Sugar Candy> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d3/Songs_smallcloud.jpg/100px-Songs_smallcloud.jpg>
+<Blue Rose> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8c/Songs_bluerose.jpg/100px-Songs_bluerose.jpg>
+<Flyburg and Endroll> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c0/Songs_flyburg.jpg/100px-Songs_flyburg.jpg>
+<Kanagawa Cyber Culvert> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a7/Songs_kanagawa.jpg/100px-Songs_kanagawa.jpg>
+<Empire of Winter> <FTR> <https://wiki.arcaea.cn/images/thumb/6/66/Songs_empireofwinter.jpg/100px-Songs_empireofwinter.jpg>
+<ReviXy> <FTR> <https://wiki.arcaea.cn/images/thumb/5/50/Songs_revixy.jpg/100px-Songs_revixy.jpg>
+<Jump> <FTR> <https://wiki.arcaea.cn/images/thumb/4/42/Songs_jump.jpg/100px-Songs_jump.jpg>
+<Turbocharger> <FTR> <https://wiki.arcaea.cn/images/thumb/0/0f/Songs_turbocharger.jpg/100px-Songs_turbocharger.jpg>
+<Last> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a2/Songs_last.jpg/100px-Songs_last.jpg>
+<Shades of Light in a Transcendent Realm> <BYD> <https://wiki.arcaea.cn/images/thumb/7/79/Songs_shadesoflight_byd.jpg/100px-Songs_shadesoflight_byd.jpg>
+<Memoryfactory.lzh> <FTR> <https://wiki.arcaea.cn/images/thumb/5/59/Songs_memoryfactory.jpg/100px-Songs_memoryfactory.jpg>
+<Chronostasis> <FTR> <https://wiki.arcaea.cn/images/thumb/0/04/Songs_chronostasis.jpg/100px-Songs_chronostasis.jpg>
+<Evoltex (poppi&#39;n mix)> <FTR> <https://wiki.arcaea.cn/images/thumb/a/ad/Songs_evoltex.jpg/100px-Songs_evoltex.jpg>
+<Maze No.9> <FTR> <https://wiki.arcaea.cn/images/thumb/4/44/Songs_mazenine.jpg/100px-Songs_mazenine.jpg>
+<MERLIN> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cb/Songs_merlin.jpg/100px-Songs_merlin.jpg>
+<Give Me a Nightmare> <FTR> <https://wiki.arcaea.cn/images/thumb/4/47/Songs_givemeanightmare.jpg/100px-Songs_givemeanightmare.jpg>
+<Flashback> <FTR> <https://wiki.arcaea.cn/images/thumb/e/ee/Songs_flashback.jpg/100px-Songs_flashback.jpg>
+<Surrender> <FTR> <https://wiki.arcaea.cn/images/thumb/2/23/Songs_surrender.jpg/100px-Songs_surrender.jpg>
+<Journey> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5f/Songs_journey.jpg/100px-Songs_journey.jpg>
+<Next to you> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f4/Songs_nexttoyou.jpg/100px-Songs_nexttoyou.jpg>
+<Solitary Dream> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d8/Songs_solitarydream.jpg/100px-Songs_solitarydream.jpg>
+<Antithese> <FTR> <https://wiki.arcaea.cn/images/thumb/1/18/Songs_antithese.jpg/100px-Songs_antithese.jpg>
+<Particle Arts> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c8/Songs_particlearts.jpg/100px-Songs_particlearts.jpg>
+<Vexaria> <BYD> <https://wiki.arcaea.cn/images/thumb/2/29/Songs_vexaria_byd.jpg/100px-Songs_vexaria_byd.jpg>
+<Vivid Theory> <FTR> <https://wiki.arcaea.cn/images/thumb/3/33/Songs_vividtheory.jpg/100px-Songs_vividtheory.jpg>
+<Coastal Highway> <FTR> <https://wiki.arcaea.cn/images/thumb/0/04/Songs_coastalhighway.jpg/100px-Songs_coastalhighway.jpg>
+<CYCLES> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d0/Songs_cycles.jpg/100px-Songs_cycles.jpg>
+<Cosmo Pop Funclub> <FTR> <https://wiki.arcaea.cn/images/thumb/1/11/Songs_cosmopop.jpg/100px-Songs_cosmopop.jpg>
+<Call My Name feat. Yukacco> <FTR> <https://wiki.arcaea.cn/images/thumb/c/cc/Songs_callmyname.jpg/100px-Songs_callmyname.jpg>
+<Senkyou> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7d/Songs_senkyou.jpg/100px-Songs_senkyou.jpg>
+<Beside You> <FTR> <https://wiki.arcaea.cn/images/thumb/e/ed/Songs_besideyou.jpg/100px-Songs_besideyou.jpg>
+<Paper Witch> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5c/Songs_paperwitch.jpg/100px-Songs_paperwitch.jpg>
+<Quon (DJ Noriken)> <FTR> <https://wiki.arcaea.cn/images/thumb/6/61/Songs_quonwacca.jpg/100px-Songs_quonwacca.jpg>
+<Lights of Muse> <FTR> <https://wiki.arcaea.cn/images/thumb/0/00/Songs_lightsofmuse.jpg/100px-Songs_lightsofmuse.jpg>
+<Arcana Eden> <PRS> <https://wiki.arcaea.cn/images/thumb/5/5a/Songs_arcanaeden.jpg/100px-Songs_arcanaeden.jpg>
+<PRAGMATISM> <PRS> <https://wiki.arcaea.cn/images/thumb/2/24/Songs_pragmatism.jpg/100px-Songs_pragmatism.jpg>
+<Silent Rush> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c0/Songs_silentrush.jpg/100px-Songs_silentrush.jpg>
+<Grimheart> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b6/Songs_grimheart.jpg/100px-Songs_grimheart.jpg>
+<FREEF4LL> <FTR> <https://wiki.arcaea.cn/images/thumb/3/39/Songs_freefall.jpg/100px-Songs_freefall.jpg>
+<Gekka (Short Version)> <FTR> <https://wiki.arcaea.cn/images/thumb/4/42/Songs_gekka.jpg/100px-Songs_gekka.jpg>
+<BUCHiGiRE Berserker> <PRS> <https://wiki.arcaea.cn/images/thumb/d/d7/Songs_buchigireberserker.jpg/100px-Songs_buchigireberserker.jpg>
+<Babaroque> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b7/Songs_babaroque.jpg/100px-Songs_babaroque.jpg>
+<Cry of viyella> <FTR> <https://wiki.arcaea.cn/images/thumb/0/00/Songs_viyella.jpg/100px-Songs_viyella.jpg>
+<Dandelion> <FTR> <https://wiki.arcaea.cn/images/thumb/9/96/Songs_dandelion.jpg/100px-Songs_dandelion.jpg>
+<Harutopia ~Utopia of Spring~> <FTR> <https://wiki.arcaea.cn/images/thumb/7/78/Songs_harutopia.jpg/100px-Songs_harutopia.jpg>
+<Axium Crisis> <PRS> <https://wiki.arcaea.cn/images/thumb/f/f3/Songs_axiumcrisis.jpg/100px-Songs_axiumcrisis.jpg>
+<Reinvent> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8b/Songs_reinvent.jpg/100px-Songs_reinvent.jpg>
+<Chelsea> <FTR> <https://wiki.arcaea.cn/images/thumb/f/f4/Songs_chelsea.jpg/100px-Songs_chelsea.jpg>
+<Misdeed -la bonté de Dieu et l&#39;origine du mal-> <PRS> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_gou.jpg/100px-Songs_gou.jpg>
+<Overwhelm> <PRS> <https://wiki.arcaea.cn/images/thumb/2/2a/Songs_overwhelm.jpg/100px-Songs_overwhelm.jpg>
+<GENOCIDER> <PRS> <https://wiki.arcaea.cn/images/thumb/4/42/Songs_genocider.jpg/100px-Songs_genocider.jpg>
+<Cosmica> <FTR> <https://wiki.arcaea.cn/images/thumb/d/dc/Songs_cosmica.jpg/100px-Songs_cosmica.jpg>
+<DDD> <FTR> <https://wiki.arcaea.cn/images/thumb/c/ce/Songs_ddd.jpg/100px-Songs_ddd.jpg>
+<Chronicle> <PRS> <https://wiki.arcaea.cn/images/thumb/7/7f/Songs_chronicle.jpg/100px-Songs_chronicle.jpg>
+<PRIMITIVE LIGHTS> <PRS> <https://wiki.arcaea.cn/images/thumb/c/c2/Songs_primitivelights.jpg/100px-Songs_primitivelights.jpg>
+<Snow White> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_snowwhite.jpg/100px-Songs_snowwhite.jpg>
+<Lumia> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c9/Songs_lumia.jpg/100px-Songs_lumia.jpg>
+<REconstruction> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_reconstruction.jpg/100px-Songs_reconstruction.jpg>
+<Moonheart> <FTR> <https://wiki.arcaea.cn/images/thumb/1/12/Songs_moonheart.jpg/100px-Songs_moonheart.jpg>
+<Rabbit In The Black Room> <FTR> <https://wiki.arcaea.cn/images/thumb/1/1c/Songs_rabbitintheblackroom.jpg/100px-Songs_rabbitintheblackroom.jpg>
+<Purgatorium> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c2/Songs_purgatorium.jpg/100px-Songs_purgatorium.jpg>
+<Cyaegha> <PRS> <https://wiki.arcaea.cn/images/thumb/9/93/Songs_cyaegha.jpg/100px-Songs_cyaegha.jpg>
+<Ringed Genesis> <PRS> <https://wiki.arcaea.cn/images/thumb/b/bd/Songs_ringedgenesis.jpg/100px-Songs_ringedgenesis.jpg>
+<Eccentric Tale> <FTR> <https://wiki.arcaea.cn/images/thumb/6/69/Songs_eccentrictale.jpg/100px-Songs_eccentrictale.jpg>
+<Enchanted love> <FTR> <https://wiki.arcaea.cn/images/thumb/a/af/Songs_enchantedlove.jpg/100px-Songs_enchantedlove.jpg>
+<INTERNET OVERDOSE> <FTR> <https://wiki.arcaea.cn/images/thumb/b/bb/Songs_internetoverdose.jpg/100px-Songs_internetoverdose.jpg>
+<Pentiment> <PRS> <https://wiki.arcaea.cn/images/thumb/2/2d/Songs_pentiment.jpg/100px-Songs_pentiment.jpg>
+<Tsuki ni Murakumo, Hana ni Kaze> <FTR> <https://wiki.arcaea.cn/images/thumb/c/c7/Songs_tsukinimurakumo.jpg/100px-Songs_tsukinimurakumo.jpg>
+<Shades of Light in a Transcendent Realm> <FTR> <https://wiki.arcaea.cn/images/thumb/9/9a/Songs_shadesoflight.jpg/100px-Songs_shadesoflight.jpg>
+<Bookmaker (2D Version)> <FTR> <https://wiki.arcaea.cn/images/thumb/6/67/Songs_bookmaker.jpg/100px-Songs_bookmaker.jpg>
+<Ether Strike> <PRS> <https://wiki.arcaea.cn/images/thumb/b/b2/Songs_etherstrike.jpg/100px-Songs_etherstrike.jpg>
+<Dot to Dot feat. shully> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2e/Songs_dottodot.jpg/100px-Songs_dottodot.jpg>
+<Tie me down gently> <FTR> <https://wiki.arcaea.cn/images/thumb/f/fa/Songs_tiemedowngently.jpg/100px-Songs_tiemedowngently.jpg>
+<IZANA> <PRS> <https://wiki.arcaea.cn/images/thumb/4/41/Songs_izana.jpg/100px-Songs_izana.jpg>
+<Oblivia> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a3/Songs_oblivia.jpg/100px-Songs_oblivia.jpg>
+<April showers> <FTR> <https://wiki.arcaea.cn/images/thumb/8/8d/Songs_aprilshowers.jpg/100px-Songs_aprilshowers.jpg>
+<REKKA RESONANCE> <PRS> <https://wiki.arcaea.cn/images/thumb/c/cd/Songs_rekkaresonance.jpg/100px-Songs_rekkaresonance.jpg>
+<Avril -Flicka i krans-> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2b/Songs_avril.jpg/100px-Songs_avril.jpg>
+<San skia> <FTR> <https://wiki.arcaea.cn/images/thumb/7/79/Songs_sanskia.jpg/100px-Songs_sanskia.jpg>
+<Altair (feat. *spiLa*)> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d2/Songs_altair.jpg/100px-Songs_altair.jpg>
+<LAMIA> <PRS> <https://wiki.arcaea.cn/images/thumb/8/86/Songs_lamia.jpg/100px-Songs_lamia.jpg>
+<Lucifer> <FTR> <https://wiki.arcaea.cn/images/thumb/0/04/Songs_lucifer.jpg/100px-Songs_lucifer.jpg>
+<Genesis (Iris)> <FTR> <https://wiki.arcaea.cn/images/thumb/1/19/Songs_genesis.jpg/100px-Songs_genesis.jpg>
+<One Last Drive> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a2/Songs_onelastdrive.jpg/100px-Songs_onelastdrive.jpg>
+<Halcyon> <PRS> <https://wiki.arcaea.cn/images/thumb/b/ba/Songs_halcyon.jpg/100px-Songs_halcyon.jpg>
+<Hall of Mirrors> <FTR> <https://wiki.arcaea.cn/images/thumb/e/e3/Songs_hallofmirrors.jpg/100px-Songs_hallofmirrors.jpg>
+<Dantalion> <PRS> <https://wiki.arcaea.cn/images/thumb/8/89/Songs_dantalion.jpg/100px-Songs_dantalion.jpg>
+<1F> <FTR> <https://wiki.arcaea.cn/images/thumb/d/df/Songs_onefr.jpg/100px-Songs_onefr.jpg>
+<Blue comet> <FTR> <https://wiki.arcaea.cn/images/thumb/7/7a/Songs_bluecomet.jpg/100px-Songs_bluecomet.jpg>
+<TEmPTaTiON> <PRS> <https://wiki.arcaea.cn/images/thumb/c/c5/Songs_temptation.jpg/100px-Songs_temptation.jpg>
+<I've heard it said> <FTR> <https://wiki.arcaea.cn/images/thumb/a/a3/Songs_hearditsaid.jpg/100px-Songs_hearditsaid.jpg>
+<Hikari> <FTR> <https://wiki.arcaea.cn/images/thumb/1/17/Songs_hikari.jpg/100px-Songs_hikari.jpg>
+<Diode> <FTR> <https://wiki.arcaea.cn/images/thumb/b/b7/Songs_diode.jpg/100px-Songs_diode.jpg>
+<Live Fast Die Young> <PRS> <https://wiki.arcaea.cn/images/thumb/b/b1/Songs_livefastdieyoung.jpg/100px-Songs_livefastdieyoung.jpg>
+<Dialnote> <FTR> <https://wiki.arcaea.cn/images/thumb/f/ff/Songs_dialnote.jpg/100px-Songs_dialnote.jpg>
+<Relentless> <FTR> <https://wiki.arcaea.cn/images/thumb/f/fe/Songs_relentless.jpg/100px-Songs_relentless.jpg>
+<World.execute(me);> <FTR> <https://wiki.arcaea.cn/images/thumb/0/06/Songs_worldexecuteme.jpg/100px-Songs_worldexecuteme.jpg>
+<Prism> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d0/Songs_prism.jpg/100px-Songs_prism.jpg>
+<Crimson Throne> <PRS> <https://wiki.arcaea.cn/images/thumb/b/bf/Songs_crimsonthrone.jpg/100px-Songs_crimsonthrone.jpg>
+
