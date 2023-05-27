@@ -62,6 +62,7 @@
 [FTR]Arcana Eden
 [FTR]Good bye, Merry-Go-Round.
 [BYD]trappola bewitching
+[FTR]To the Milky Way
 10.4
 [FTR]guardina
 [FTR]Tiferet
@@ -167,6 +168,7 @@
 [FTR]FLUFFY FLASH
 [BYD]FREEF4LL
 [FTR]World Fragments III(radio edit)
+[FTR]Hybris (The one who shattered)
 9.7
 [FTR]Lethaeus
 [FTR]The Message
@@ -194,6 +196,7 @@
 [BYD]Last ~ Eternity
 [FTR]Let's Rock (Arcaea mix)
 [BYD]Teriqma
+[FTR]Lost in the Abyss
 9.6
 [FTR]Quon9
 [FTR]carmine:scythe
@@ -305,6 +308,7 @@
 [FTR]Turbocharger
 [FTR]Last
 [BYD]Shades of Light in a Transcendent Realm
+[FTR]Galactic Love
 8.9
 [FTR]memoryfactory.lzh
 [FTR]Chronostasis
@@ -312,6 +316,7 @@
 [FTR]Maze No.9
 [FTR]MERLIN
 [FTR]Give Me a Nightmare
+[FTR]Lawless Point
 8.8
 [FTR]Flashback
 [FTR]Surrender
@@ -333,6 +338,7 @@
 [FTR]Quon8
 [FTR]Lights of Muse
 [PRS]Arcana Eden
+[PRS]To the Milky Way
 8.6
 [PRS]PRAGMATISM
 [FTR]Silent Rush

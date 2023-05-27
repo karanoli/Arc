@@ -367,4 +367,9 @@
 <World.execute(me);> <FTR> <https://wiki.arcaea.cn/images/thumb/0/06/Songs_worldexecuteme.jpg/100px-Songs_worldexecuteme.jpg>
 <Prism> <FTR> <https://wiki.arcaea.cn/images/thumb/d/d0/Songs_prism.jpg/100px-Songs_prism.jpg>
 <Crimson Throne> <PRS> <https://wiki.arcaea.cn/images/thumb/b/bf/Songs_crimsonthrone.jpg/100px-Songs_crimsonthrone.jpg>
-
+<To the Milky Way> <FTR> <https://wiki.arcaea.cn/images/thumb/5/5d/Songs_tothemilkyway.jpg/100px-Songs_tothemilkyway.jpg>
+<To the Milky Way> <PRS> <https://wiki.arcaea.cn/images/thumb/5/5d/Songs_tothemilkyway.jpg/100px-Songs_tothemilkyway.jpg>
+<Hybris (The one who shattered)> <FTR> <https://wiki.arcaea.cn/images/thumb/2/2f/Songs_hybris.jpg/100px-Songs_hybris.jpg>
+<Lost in the Abyss> <FTR> <https://wiki.arcaea.cn/images/thumb/6/69/Songs_lostintheabyss.jpg/100px-Songs_lostintheabyss.jpg>
+<Galactic Love> <FTR> <https://wiki.arcaea.cn/images/thumb/4/4b/Songs_galacticlove.jpg/100px-Songs_galacticlove.jpg>
+<Lawless Point> <FTR> <https://wiki.arcaea.cn/images/thumb/7/72/Songs_lawlesspoint.jpg/100px-Songs_lawlesspoint.jpg>
