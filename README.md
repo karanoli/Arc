@@ -1,4 +1,4 @@
-第一次使用，请务必清空/datas/playdata
+第一次使用，请务必$\color{red}{清空/datas/playdata}$
 在外面放了一份datas，便于大家下载
 
 使用方法：
