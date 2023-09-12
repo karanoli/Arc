@@ -183,3 +183,13 @@
 <II> <FTR> <./datas/photo/100px-Songs_ii.jpg>
 <Magnolia> <FTR> <./datas/photo/100px-Songs_magnolia.jpg>
 <Ultimate taste> <FTR> <./datas/photo/100px-Songs_ultimatetaste.jpg>
+<INTERNET YAMERO> <FTR> <./datas/photo/100px-Songs_internetyamero.jpg>
+<Hybris (The one who shattered)> <FTR> <./datas/photo/100px-Songs_hybris.jpg>
+<Rise of the World> <FTR> <./datas/photo/100px-Songs_riseoftheworld.jpg>
+<UNKNOWN LEVELS> <FTR> <./datas/photo/100px-Songs_unknownlevels.jpg>
+<Abstruse Dilemma> <FTR> <./datas/photo/100px-Songs_abstrusedilemma.jpg>
+<RGB> <FTR> <./datas/photo/100px-Songs_rgb.jpg>
+<SACRIFICE feat. ayame> <FTR> <./datas/photo/100px-Songs_sacrifice.jpg>
+
+
+

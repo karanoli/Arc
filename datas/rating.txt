@@ -12,6 +12,7 @@
 [BYD]World Ender
 11.1
 [FTR]Aegleseeker
+[FTR]Abstruse Dilemma
 11.0
 [FTR]SAIKYO STRONGER
 [BYD]PRAGMATISM -RESURRECTION-
@@ -56,6 +57,7 @@
 [FTR]Live Fast Die Young
 [FTR]NULL APOPHENIA
 [FTR]Manic Jeer
+[FTR]UNKNOWN LEVELS
 10.5
 [FTR]Last Celebration
 [FTR]Lightning Screw
@@ -82,6 +84,7 @@
 [FTR][X]
 [BYD]IMPACT
 [FTR]Lucid Traveler
+[FTR]Rise of the World
 10.3
 [FTR]Nirv lucE
 [FTR]Metallic Punisher
@@ -145,6 +148,7 @@
 [FTR]The Survivor (Game Edit)
 [FTR]New York Back Raise
 [FTR]Devillic Sphere
+[FTR]INTERNET YAMERO
 9.8
 [FTR]Memory Forest
 [FTR]Linear Accelerator
@@ -204,3 +208,5 @@
 [BYD]Teriqma
 [FTR]Lost in the Abyss
 [FTR]Ultimate taste
+[FTR]RGB
+[FTR]SACRIFICE feat. ayame
