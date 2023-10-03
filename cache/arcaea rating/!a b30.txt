@@ -1,0 +1,166 @@
+song : Grievous Lady FTR 11.3
+score : 9842674
+rating : 12.51
+
+song : ouroboros -twin stroke of the end- FTR 10.7
+score : 9957478
+rating : 12.49
+
+song : Cyaegha FTR 10.7
+score : 9957460
+rating : 12.49
+
+song : Singularity FTR 10.7
+score : 9955792
+rating : 12.48
+
+song : Overwhelm FTR 10.6
+score : 9945255
+rating : 12.33
+
+song : Live Fast Die Young FTR 10.6
+score : 9943215
+rating : 12.32
+
+song : Last Celebration FTR 10.5
+score : 9960728
+rating : 12.30
+
+song : IMPACT BYD 10.4
+score : 9961842
+rating : 12.21
+
+song : Seclusion FTR 10.6
+score : 9908292
+rating : 12.14
+
+song : Kissing Lucifer FTR 10.4
+score : 9941972
+rating : 12.11
+
+song : Sheriruth FTR 10.1
+score : 10001092
+rating : 12.10
+
+song : Viyella's Tears FTR 10.3
+score : 9958582
+rating : 12.09
+
+song : To the Milky Way FTR 10.5
+score : 9915116
+rating : 12.08
+
+song : PUPA FTR 10.4
+score : 9928254
+rating : 12.04
+
+song : Metallic Punisher FTR 10.3
+score : 9944616
+rating : 12.02
+
+song : aterlbus FTR 10.2
+score : 9962148
+rating : 12.01
+
+song : To: Alice Liddell FTR 10.3
+score : 9940825
+rating : 12.00
+
+song : Xanatos FTR 10.0
+score : 10001203
+rating : 12.00
+
+song : Alexandrite FTR 10.0
+score : 10000956
+rating : 12.00
+
+song : Halcyon FTR 10.7
+score : 9858475
+rating : 11.99
+
+song : Tiferet FTR 10.4
+score : 9918127
+rating : 11.99
+
+song : lastendconductor BYD 10.1
+score : 9971368
+rating : 11.96
+
+song : Axium Crisis FTR 10.7
+score : 9850080
+rating : 11.95
+
+song : 99 Glooms FTR 10.3
+score : 9923866
+rating : 11.92
+
+song : Lightning Screw FTR 10.5
+score : 9883570
+rating : 11.92
+
+song : The Survivor (Game Edit) FTR 9.9
+score : 10001054
+rating : 11.90
+
+song : Summer Fireworks of Love FTR 9.9
+score : 10001062
+rating : 11.90
+
+song : Mirzam FTR 10.0
+score : 9970507
+rating : 11.85
+
+song : Ego Eimi FTR 10.5
+score : 9866128
+rating : 11.83
+
+song : Logos FTR 10.1
+score : 9943264
+rating : 11.82
+
+_______________
+
+song : trappola bewitching FTR 10.0
+score : 9962635
+rating : 11.81
+
+song : INTERNET YAMERO FTR 9.9
+score : 9980700
+rating : 11.80
+
+song : Corruption FTR 9.8
+score : 10001256
+rating : 11.80
+
+song : Memory Forest FTR 9.8
+score : 10000912
+rating : 11.80
+
+song : World Fragments III(radio edit) FTR 9.8
+score : 10001307
+rating : 11.80
+
+song : Haze of Autumn FTR 9.8
+score : 10001019
+rating : 11.80
+
+song : Hybris (The one who shattered) FTR 9.8
+score : 10001114
+rating : 11.80
+
+song : Xeraphinite FTR 9.8
+score : 9991424
+rating : 11.76
+
+song : Loschen FTR 10.2
+score : 9907990
+rating : 11.74
+
+song : Fracture Ray FTR 11.3
+score : 9629642
+rating : 11.73
+
+b30 : 12.092
+r10 : 12.325
+ptt : 12.15
+ptt_max : 12.15304
