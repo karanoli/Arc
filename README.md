@@ -19,7 +19,7 @@ https://www.bilibili.com/video/BV1L94y1C7va/
 
 
 
-现最新版本：ver3.0.0
+现最新版本：ver3.0.1
 
 如有Bug,或Arc版本更新，请及时通知我。 karanoli142857@gmail.com
 

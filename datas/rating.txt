@@ -36,6 +36,7 @@
 [FTR]Testify
 [FTR]Spider's Thread
 [FTR]II
+[FTR]Meta-Mysteria
 10.7
 [FTR]Axium Crisis
 [FTR]Singularity
@@ -70,6 +71,9 @@
 [BYD]trappola bewitching
 [FTR]To the Milky Way
 [FTR]Ego Eimi
+[FTR]eden
+[FTR]XTREME
+[FTR]Wish Upon a Snow
 10.4
 [FTR]guardina
 [FTR]Tiferet
@@ -132,6 +136,7 @@
 [FTR]HIVEMIND
 [BYD]Red and Blue
 [FTR]Free Myself
+[FTR]Kanbu de Tomatte Sugu Tokeru
 9.9
 [FTR]SOUNDWiTCH
 [FTR]Nhelv
@@ -142,7 +147,7 @@
 [FTR]7thSense
 [BYD]La'qryma of the Wasteland
 [FTR]Summer Fireworks of Love
-[BYD]Ignotus Afterburn
+[BYD]Ignotus
 [FTR]Trap Crow
 [FTR]Infinite Strife,
 [FTR]World Ender

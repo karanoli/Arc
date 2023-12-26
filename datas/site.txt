@@ -111,7 +111,7 @@
 <7thSense> <FTR> <./datas/photo/100px-Songs_seventhsense.jpg>
 <La'qryma of the Wasteland> <BYD> <./datas/photo/100px-Songs_laqryma_byd.jpg>
 <Summer Fireworks of Love> <FTR> <./datas/photo/100px-Songs_summerfireworks.jpg>
-<Ignotus Afterburn> <BYD> <./datas/photo/100px-Songs_ignotusafterburn.jpg>
+<Ignotus> <BYD> <./datas/photo/100px-Songs_ignotusafterburn.jpg>
 <Trap Crow> <FTR> <./datas/photo/100px-Songs_trapcrow.jpg>
 <Infinite Strife,> <FTR> <./datas/photo/100px-Songs_infinitestrife.jpg>
 <World Ender> <FTR> <./datas/photo/100px-Songs_worldender.jpg>
@@ -195,5 +195,11 @@
 <Ego Eimi> <FTR> <./datas/photo/100px-Songs_egoeimi.jpg>
 <Logos> <FTR> <./datas/photo/100px-Songs_logos.jpg>
 <Amekagura> <FTR> <./datas/photo/100px-Songs_amekagura.jpg>
-
+<TeraVolt> <FTR> <./datas/photo/100px-Songs_teravolt.jpg>
+<Nameless Passion> <FTR> <./datas/photo/100px-Songs_namelesspassion.jpg>
+<Wish Upon a Snow> <FTR> <./datas/photo/100px-Songs_wishuponasnow.jpg>
+<Meta-Mysteria> <FTR> <./datas/photo/100px-Songs_metamysteria.jpg>
+<eden> <FTR> <./datas/photo/100px-Songs_edenwacca.jpg>
+<XTREME> <FTR> <./datas/photo/100px-Songs_xtreme.jpg>
+<Kanbu de Tomatte Sugu Tokeru> <FTR>  <./datas/photo/100px-Songs_overdrive.jpg>
 

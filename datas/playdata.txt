@@ -1,380 +1,403 @@
-<#1f1e33> <FTR> <9553955>
-<7thSense> <FTR> <9881897>
+<#1f1e33> <FTR> <9655483>
+<1F> <FTR> <10000729>
+<7thSense> <FTR> <9919744>
 <99 Glooms> <FTR> <9923866>
+<A Wandering Melody of Love> <FTR> <10000892>
+<AI[UE]OON> <FTR> <9995865>
 <AMAZING MIGHTYYYY!!!!> <FTR> <9776845>
-<Abstruse Dilemma> <FTR> <8998969>
-<Aegleseeker> <FTR> <9232691>
+<Abstruse Dilemma> <FTR> <9442105>
+<Aegleseeker> <FTR> <9299683>
+<Ai Drew> <FTR> <9803946>
 <Alexandrite> <FTR> <10000956>
-<Amekagura> <FTR> <9796497>
+<Alice a la mode> <FTR> <10000826>
+<Alice's Suitcase> <FTR> <10000961>
+<Alone & Lorn> <FTR> <9969978>
+<Altair (feat. *spiLa*)> <FTR> <10000796>
+<Altale> <FTR> <9377308>
+<AlterAle> <FTR> <9942429>
+<Amekagura> <FTR> <9815091>
+<Anokumene> <FTR> <10000810>
 <Antagonism> <FTR> <9803924>
+<Antithese> <BYD> <9845858>
+<Antithese> <FTR> <10000835>
+<April showers> <FTR> <10000681>
 <Arcahv> <FTR> <9958727>
-<Arcana Eden> <BYD> <9319875>
+<Arcana Eden> <BYD> <9687830>
 <Arcana Eden> <FTR> <9803442>
-<Arghena> <FTR> <9357149>
-<Astra walkthrough> <FTR> <9740783>
-<AttraqtiA> <FTR> <9802358>
-<Aurgelmir> <FTR> <9737242>
+<Arghena> <FTR> <9485256>
+<Ascent> <FTR> <9947193>
+<Astra walkthrough> <FTR> <9870948>
+<Astral tale> <FTR> <9853730>
+<AttraqtiA> <FTR> <9889633>
+<Aurgelmir> <FTR> <9814576>
+<Auxesia> <FTR> <9935884>
+<Avant Raze> <FTR> <10001067>
+<Avril -Flicka i krans-> <FTR> <10000832>
 <Axium Crisis> <FTR> <9868406>
+<B.B.K.K.B.K.K.> <FTR> <9903512>
+<BADTEK> <FTR> <9826120>
+<BATTLE NO.1> <FTR> <10000979>
+<BLRINK> <FTR> <9971354>
 <BUCHiGiRE Berserker> <FTR> <9618662>
-<Bamboo> <FTR> <9567481>
-<Bookmaker (2D Version)> <BYD> <9736875>
+<Babaroque> <FTR> <10000763>
+<Bamboo> <FTR> <9662733>
+<Be There> <FTR> <9965256>
+<Beside You> <FTR> <10000689>
+<Black Lotus> <FTR> <9845400>
+<Black Territory> <FTR> <9875567>
+<Blaster> <FTR> <9956011>
+<Blocked Library> <FTR> <9994918>
+<Blossoms> <FTR> <10000627>
+<Blue Rose> <FTR> <10000907>
+<Bookmaker (2D Version)> <BYD> <9760220>
 <Bookmaker (2D Version)> <FTR> <10001096>
+<Brand new world> <FTR> <10000741>
+<Bullet Waiting for Me (James Landino remix)> <FTR> <10000659>
 <CHAOS> <FTR> <9613959>
+<CROSS OVER> <FTR> <9964470>
+<CROSS SOUL> <FTR> <9848343>
+<CYCLES> <FTR> <10000670>
+<Call My Name feat. Yukacco> <FTR> <10000883>
+<Callima Karma> <FTR> <9833317>
+<Can I Friend You on Bassbook? Lol> <FTR> <10000813>
 <Capella> <FTR> <9828475>
-<Chronicle> <FTR> <9783549>
-<Climax> <FTR> <9847562>
-<Crimson Throne> <FTR> <9692664>
+<Chelsea> <FTR> <10000630>
+<Chronicle> <FTR> <9846850>
+<Chronostasis> <FTR> <10000879>
+<Climax> <FTR> <9847581>
+<Clotho and the stargazer> <FTR> <10000989>
+<Coastal Highway> <FTR> <10000699>
+<Corruption> <FTR> <10001256>
+<Cosmica> <FTR> <10000747>
+<Cosmo Pop Funclub> <FTR> <10000781>
+<Crimson Throne> <FTR> <9867855>
+<Crystal Gravity> <FTR> <9983633>
 <Cyaegha> <FTR> <9957460>
-<Dantalion> <FTR> <9659048>
+<Cybernecia Catharsis> <FTR> <9916288>
+<DDD> <FTR> <10000616>
+<DRG> <FTR> <10000809>
+<DX Choseinou Full Metal Shojo> <FTR> <9449855>
+<Dancin' on a Cat's Paw> <FTR> <9950295>
+<Dandelion> <FTR> <10000880>
+<Dantalion> <FTR> <9747130>
+<DataErr0r> <FTR> <9958986>
+<Dazzle hop> <FTR> <9800319>
+<Defection> <FTR> <9904589>
+<Dement ~after legend~> <BYD> <9943253>
 <Dement ~after legend~> <FTR> <10000938>
-<Devillic Sphere> <FTR> <9757433>
-<Divine Light of Myriad> <FTR> <9511044>
+<Devillic Sphere> <FTR> <9806136>
+<Dialnote> <FTR> <10000675>
+<Diode> <FTR> <10000675>
+<Divine Light of Myriad> <FTR> <9545330>
+<Dot to Dot feat. shully> <FTR> <10000728>
+<Dreadnought> <FTR> <10001038>
+<Dream goes on> <FTR> <10000701>
+<Dreamin' Attraction!!> <FTR> <10001046>
+<Dynitikos> <FTR> <9990801>
+<ENERGY SYNERGY MATRIX> <FTR> <9881499>
+<Eccentric Tale> <FTR> <10000683>
 <Ego Eimi> <FTR> <9866128>
+<Einherjar Joker> <FTR> <9858602>
+<Empire of Winter> <FTR> <10000878>
+<Equilibrium> <FTR> <9990368>
+<Essence of Twilight> <FTR> <10001127>
 <Ether Strike> <FTR> <9864235>
+<Evening in Scarlet> <FTR> <10000879>
+<Evoltex (poppi'n mix)> <FTR> <10000739>
+<FANTA5Y> <FTR> <10000912>
+<FLUFFY FLASH> <FTR> <9828080>
+<FREEF4LL> <BYD> <9742905>
+<FREEF4LL> <FTR> <10000979>
+<Faint Light (Arcaea Edit)> <FTR> <10000767>
+<Fairytale> <BYD> <9845249>
+<Fairytale> <FTR> <10000763>
+<Fallensquare> <FTR> <9339044>
+<False Embellishment> <FTR> <9913157>
+<Far Away Light> <FTR> <9963395>
+<Feels So Right feat. Renko> <FTR> <10000940>
 <Felis> <FTR> <9810282>
-<Fracture Ray> <FTR> <9629642>
-<Free Myself> <FTR> <9744778>
-<G e n g a o z o> <FTR> <9698000>
+<Filament> <FTR> <9804118>
+<Final Step!> <FTR> <9991540>
+<First Snow> <FTR> <10000551>
+<Flashback> <FTR> <10000817>
+<Flyburg and Endroll> <FTR> <10000888>
+<Fracture Ray> <FTR> <9735270>
+<Free Myself> <FTR> <9784550>
+<G e n g a o z o> <FTR> <9879205>
 <GENOCIDER> <FTR> <9579725>
 <GIMME DA BLOOD> <FTR> <9708157>
+<GIMMICK> <FTR> <10000681>
 <GLORY:ROAD> <FTR> <9825499>
+<GOODTEK (Arcaea Edit)> <BYD> <9860423>
+<GOODTEK (Arcaea Edit)> <FTR> <10000929>
+<Galactic Love> <FTR> <10000783>
+<Galaxy Friends> <FTR> <9739284>
 <Garakuta Doll Play> <FTR> <9802819>
+<Gekka (Short Version)> <FTR> <10000770>
 <Genesis> <FTR> <9510491>
-<Good bye, Merry-Go-Round.> <FTR> <9590396>
+<Give Me a Nightmare> <FTR> <10000920>
+<Glow> <FTR> <9913486>
+<Good bye, Merry-Go-Round.> <FTR> <9705726>
+<Got hive of Ra> <FTR> <9912540>
 <Grievous Lady> <FTR> <9842674>
-<HIVEMIND> <FTR> <9757459>
+<Grimheart> <FTR> <10000927>
+<HIVEMIND> <FTR> <9777439>
 <Halcyon> <FTR> <9862555>
+<Hall of Mirrors> <FTR> <10000865>
+<Harutopia ~Utopia of Spring~> <FTR> <10000994>
+<Haze of Autumn> <FTR> <10001019>
+<Head BONK ache> <FTR> <9850154>
+<Heart> <FTR> <9920516>
+<Heart Jackin'> <FTR> <9857067>
+<Heavenly caress> <FTR> <9876464>
 <Heavensdoor> <BYD> <9580818>
 <Heavensdoor> <FTR> <9905631>
 <Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)> <FTR> <9703437>
-<II> <FTR> <9553655>
+<Hikari> <FTR> <10000654>
+<Hybris (The one who shattered)> <FTR> <10001114>
+<I've heard it said> <FTR> <10000829>
+<II> <FTR> <9563170>
 <IMPACT> <BYD> <9961842>
 <IMPACT> <FTR> <10001162>
+<INTERNET OVERDOSE> <FTR> <10000620>
 <INTERNET YAMERO> <FTR> <9980700>
-<IZANA> <FTR> <9831776>
-<Ignotus Afterburn> <FTR> <10001167>
+<IZANA> <FTR> <9862516>
+<Iconoclast> <FTR> <10000757>
+<Ignotus> <BYD> <9815254>
+<Ignotus> <FTR> <10001167>
 <Ikazuchi> <FTR> <9652188>
-<Infinite Strife,> <BYD> <9453134>
-<Infinite Strife,> <FTR> <9918608>
+<Illegal Paradise> <FTR> <9916117>
+<Impure Bird> <FTR> <10000781>
+<Infinite Strife,> <BYD> <9569610>
+<Infinite Strife,> <FTR> <9935166>
+<Infinity Heaven> <BYD> <9640729>
+<Infinity Heaven> <FTR> <10000823>
+<Journey> <FTR> <10000945>
+<Jump> <FTR> <10000801>
+<Kanagawa Cyber Culvert> <BYD> <9880571>
+<Kanagawa Cyber Culvert> <FTR> <10001050>
+<Kanbu de Tomatte Sugu Tokeru> <FTR> <9612817>
+<Kanjou no Matenrou ~Arr.Demetori> <FTR> <9974152>
 <Kissing Lucifer> <FTR> <9941972>
-<LAMIA> <FTR> <9325991>
+<LAMIA> <FTR> <9567953>
+<LIVHT MY WAY> <FTR> <9911768>
+<La'qryma of the Wasteland> <BYD> <9777014>
 <La'qryma of the Wasteland> <FTR> <10000885>
+<Lapis> <FTR> <10000909>
+<Last> <BYD> <9905063>
+<Last> <FTR> <9946610>
 <Last Celebration> <FTR> <9960728>
+<Last | Eternity> <BYD> <9627235>
+<Lawless Point> <FTR> <10000799>
+<Lazy Addiction> <FTR> <9981567>
+<Let you DIVE! (nitro rmx)> <FTR> <10000983>
+<Let's Rock (Arcaea mix)> <FTR> <9984120>
+<Lethaeus> <FTR> <9856332>
+<Libertas> <FTR> <10000888>
+<Life is PIANO> <FTR> <10000606>
 <Lightning Screw> <FTR> <9963383>
+<Lights of Muse> <FTR> <10000568>
+<Linear Accelerator> <FTR> <9879254>
 <Live Fast Die Young> <FTR> <9943215>
 <Logos> <FTR> <9943264>
-<Loschen> <FTR> <9907990>
+<Loschen> <FTR> <9932278>
+<Lost Civilization> <BYD> <9671038>
+<Lost Civilization> <FTR> <9929894>
+<Lost Desire> <FTR> <9671659>
+<Lost Emotion feat. nomico> <FTR> <9992154>
+<Lost in the Abyss> <FTR> <9962928>
+<Loveless Dress> <FTR> <9741877>
 <Lucid Traveler> <FTR> <9654359>
+<Lucifer> <FTR> <10000818>
+<Lumia> <BYD> <9920881>
+<Lumia> <FTR> <10000942>
+<LunarOrbit -believe in the Espebranch road-> <FTR> <9958456>
+<MAHOROBA> <FTR> <9982679>
+<MANTIS (Arcaea Ultra-Bloodrush VIP)> <FTR> <9966423>
 <MAXRAGE> <FTR> <9853242>
+<MERLIN> <BYD> <9813443>
+<MERLIN> <FTR> <10000679>
+<Macrocosmic Modulation> <FTR> <9938335>
 <Magnolia> <FTR> <9553802>
-<Malicious Mischance> <FTR> <9752288>
+<Malicious Mischance> <FTR> <9774500>
 <Manic Jeer> <FTR> <9503368>
-<Medusa> <FTR> <9710765>
+<Maze No.9> <FTR> <10000741>
+<Mazy Metroplex> <FTR> <9874796>
+<Medusa> <FTR> <10000902>
+<Memory Forest> <FTR> <10000912>
+<Meta-Mysteria> <FTR> <9611430>
 <Metallic Punisher> <FTR> <9944616>
-<Mirzam> <FTR> <9970507>
-<Misdeed -la bonte de Dieu et l'origine du mal-> <FTR> <9564317>
-<Modelista> <FTR> <9609691>
+<Mirzam> <FTR> <9982025>
+<Misdeed -la bonte de Dieu et l'origine du mal-> <FTR> <9679335>
+<Modelista> <FTR> <9827557>
+<Monochrome Princess> <FTR> <9970077>
+<Moonheart> <BYD> <9864939>
+<Moonheart> <FTR> <10000902>
+<Moonlight of Sand Castle> <FTR> <10000627>
 <NEO WINGS> <FTR> <9850461>
+<NULCTRL> <FTR> <9832794>
 <NULL APOPHENIA> <FTR> <9654674>
-<New York Back Raise> <FTR> <9799280>
-<Nhelv> <FTR> <9843042>
+<Nameless Passion> <FTR> <9976609>
+<New York Back Raise> <FTR> <9817613>
+<Nhelv> <FTR> <9856601>
 <Nirv lucE> <FTR> <9873344>
+<ODYSSEIA> <FTR> <9996456>
+<OMAKENO Stroke> <BYD> <9318603>
 <OMAKENO Stroke> <FTR> <9810891>
+<Oblivia> <FTR> <10000913>
+<One Last Drive> <FTR> <10000841>
+<Oracle> <FTR> <9980128>
 <Oshama Scramble!> <FTR> <9912377>
+<Ouverture> <FTR> <9946076>
 <Overwhelm> <FTR> <9945255>
-<PRAGMATISM> <BYD> <8662798>
+<PICO-Pico-Translation!> <FTR> <10001001>
+<PRAGMATISM> <BYD> <9252136>
 <PRAGMATISM> <FTR> <9963686>
-<PRIMITIVE LIGHTS> <FTR> <9610816>
+<PRIMITIVE LIGHTS> <FTR> <9643629>
 <PUPA> <FTR> <9928254>
+<Paper Witch> <FTR> <10000761>
+<Paradise> <FTR> <10000710>
+<Particle Arts> <FTR> <10000866>
+<Party Vinyl> <BYD> <9609665>
 <Party Vinyl> <FTR> <9969482>
-<Pentiment> <BYD> <8720314>
-<Pentiment> <FTR> <9770627>
+<Pentiment> <BYD> <9291949>
+<Pentiment> <FTR> <9811576>
+<Phantasia> <FTR> <9969369>
+<Primeval Texture> <FTR> <10000767>
+<Prism> <FTR> <10000755>
+<Protoflicker> <FTR> <9928946>
+<Purgatorium> <BYD> <9763008>
+<Purgatorium> <FTR> <10000949>
+<Purple Verse> <FTR> <9947166>
+<Quon> <FTR> <9955481>
 <Quon8> <BYD> <10000993>
 <Quon8> <FTR> <10000724>
-<REKKA RESONANCE> <FTR> <9373856>
-<Red and Blue> <BYD> <9490186>
-<Red and Blue> <FTR> <9912028>
+<REKKA RESONANCE> <FTR> <9658573>
+<REconstruction> <FTR> <10000782>
+<RGB> <FTR> <9841870>
+<Rabbit In The Black Room> <FTR> <10000718>
+<Raven's Pride> <FTR> <10001011>
+<Red and Blue> <BYD> <9561384>
+<Red and Blue> <FTR> <9923867>
 <Redolent Shape> <FTR> <9876880>
-<Ringed Genesis> <FTR> <9669303>
-<Rise of the World> <FTR> <9835207>
+<Redraw the Colorless World> <FTR> <9859696>
+<Reinvent> <FTR> <10000808>
+<Relentless> <FTR> <10000986>
+<Remind the Souls (Short Version)> <FTR> <9916200>
+<ReviXy> <FTR> <9962789>
+<Ringed Genesis> <FTR> <9734775>
+<Rise> <FTR> <10000764>
+<Rise of the World> <FTR> <9856454>
+<Romance Wars> <FTR> <10000620>
+<Rugie> <FTR> <10000944>
+<SACRIFICE feat. ayame> <FTR> <9938245>
 <SAIKYO STRONGER> <FTR> <9484474>
-<SOUNDWiTCH> <FTR> <9796825>
-<Scarlet Lance> <FTR> <9846061>
+<SOUNDWiTCH> <FTR> <9828712>
+<STAGER (ALL STAGE CLEAR)> <FTR> <9946146>
+<SUPERNOVA> <FTR> <9898532>
+<Sakura Fubuki> <FTR> <10000776>
+<Sayonara Hatsukoi> <FTR> <10000640>
+<Scarlet Cage> <FTR> <9829456>
+<Scarlet Lance> <FTR> <9877074>
 <Seclusion> <FTR> <9908292>
+<Senkyou> <FTR> <10000916>
+<Shades of Light in a Transcendent Realm> <BYD> <9952989>
+<Shades of Light in a Transcendent Realm> <FTR> <10001033>
 <Sheriruth> <FTR> <10001092>
-<Sheriruth (Laur Remix)> <FTR> <9634952>
+<Sheriruth (Laur Remix)> <FTR> <9829024>
+<Silent Rush> <FTR> <10000893>
 <Singularity> <BYD> <9803474>
 <Singularity> <FTR> <9955792>
-<Spider's Thread> <FTR> <9402358>
-<Stasis> <FTR> <9245082>
+<Small Cloud Sugar Candy> <FTR> <10000861>
+<Snow White> <FTR> <10000944>
+<Solitary Dream> <FTR> <10000921>
+<Specta> <FTR> <9950818>
+<Spider's Thread> <FTR> <9572853>
+<Stasis> <FTR> <9435814>
+<Stratoliner> <FTR> <10000830>
+<Strongholds> <FTR> <9952051>
+<Sulfur> <FTR> <10001020>
 <Summer Fireworks of Love> <FTR> <10001062>
-<TEmPTaTiON> <FTR> <8908806>
+<Suomi> <FTR> <10000806>
+<Surrender> <FTR> <10000882>
+<Syro> <FTR> <10001072>
+<TEmPTaTiON> <FTR> <9400257>
+<THE ULTIMACY> <FTR> <9909120>
+<Technicolour> <FTR> <9939648>
 <Tempestissimo> <BYD> <9095211>
-<Tempestissimo> <FTR> <9458691>
-<Testify> <BYD> <9038089>
-<Testify> <FTR> <9279368>
+<Tempestissimo> <FTR> <9697958>
+<TeraVolt> <FTR> <9534501>
+<Teriqma> <BYD> <9880336>
+<Teriqma> <FTR> <9960714>
+<Testify> <BYD> <9164218>
+<Testify> <FTR> <9568243>
+<The Message> <FTR> <9930358>
 <The Survivor (Game Edit)> <FTR> <10001054>
+<Tie me down gently> <FTR> <10000685>
 <Tiferet> <FTR> <9936509>
+<To the Furthest Dream> <FTR> <9869431>
 <To the Milky Way> <FTR> <9915116>
 <To: Alice Liddell> <FTR> <9940825>
-<Trap Crow> <FTR> <9875276>
-<Trrricksters!!> <FTR> <9641671>
-<UNKNOWN LEVELS> <FTR> <9731155>
+<Transient Space> <FTR> <9963479>
+<Trap Crow> <FTR> <9884606>
+<Trrricksters!!> <FTR> <9815026>
+<Tsuki ni Murakumo, Hana ni Kaze> <FTR> <10000710>
+<Turbocharger> <FTR> <9965161>
+<UNKNOWN LEVELS> <FTR> <9744212>
+<Ultimate taste> <FTR> <9940840>
+<Used to be> <FTR> <10000741>
+<VECTOR> <FTR> <9974274>
 <Valhalla:0> <FTR> <9723920>
-<Vicious Heroism> <FTR> <9887938>
-<Viyella's Tears> <FTR> <9958582>
-<World Ender> <BYD> <9555817>
+<Vandalism> <FTR> <9909004>
+<Vexaria> <BYD> <9841451>
+<Vexaria> <FTR> <10000695>
+<Vicious Heroism> <FTR> <9905353>
+<Vindication> <FTR> <10001021>
+<Vivid Theory> <FTR> <10000872>
+<Viyella's Tears> <FTR> <10001384>
+<WAIT FOR DAWN> <FTR> <10000829>
+<Wish Upon a Snow> <FTR> <9905687>
+<World Ender> <BYD> <9622073>
 <World Ender> <FTR> <9907200>
-<World Vanquisher> <FTR> <9570737>
+<World Fragments III(radio edit)> <FTR> <10001307>
+<World Vanquisher> <FTR> <9787750>
+<XTREME> <FTR> <9881896>
 <Xanatos> <FTR> <10001203>
-<[X]> <FTR> <9517736>
-<aidrew> <FTR> <9803944>
-<aiueoon> <FTR> <9909892>
-<akinokagerou> <FTR> <10001019>
-<alicealamode> <FTR> <10000826>
-<alicessuitcase> <FTR> <10000961>
-<altair> <FTR> <10000796>
-<altale> <FTR> <9355567>
-<alterale> <FTR> <9942429>
-<amygdata> <FTR> <9934350>
-<anokumene> <FTR> <10000810>
-<antithese> <BYD> <9845858>
-<antithese> <FTR> <10000835>
-<aprilshowers> <FTR> <10000681>
-<ascent> <FTR> <9947193>
-<astraltale> <FTR> <9853730>
+<Xeraphinite> <FTR> <9991424>
+<Yosakura Fubuki> <FTR> <10000869>
+<Your voice so... feat. Such> <FTR> <9961449>
+<[X]> <FTR> <9664889>
+<amygdata> <FTR> <9934358>
 <aterlbus> <FTR> <9962148>
-<auxesia> <FTR> <9935884>
-<avantraze> <FTR> <10001067>
-<avril> <FTR> <10000823>
-<babaroque> <FTR> <10000763>
-<badtek> <FTR> <9826120>
-<bassline> <FTR> <9965946>
-<battlenoone> <FTR> <10000979>
-<bbkkbkk> <FTR> <9903512>
-<besideyou> <FTR> <10000689>
-<bethere> <FTR> <9960171>
-<blacklotus> <FTR> <9845400>
-<blackterritory> <FTR> <9875567>
-<blaster> <FTR> <9916074>
-<blockedlibrary> <FTR> <9971377>
-<blossoms> <FTR> <10000627>
-<blrink> <FTR> <9961488>
-<bluecomet> <FTR> <10000741>
-<bluerose> <FTR> <10000907>
-<brandnewworld> <FTR> <10000741>
-<bulletwaiting> <FTR> <10000659>
-<callimakarma> <FTR> <9833317>
-<callmyname> <FTR> <10000883>
-<carminescythe> <FTR> <9915117>
-<chelsea> <FTR> <10000630>
-<chronostasis> <FTR> <10000879>
-<clotho> <FTR> <10000989>
-<coastalhighway> <FTR> <10000699>
-<cocorocosmetic> <FTR> <9849672>
+<blue comet> <FTR> <10000741>
+<carmine:scythe> <FTR> <9923711>
+<cocoro*cosmetic> <FTR> <9927767>
 <conflict> <FTR> <9849364>
 <corps-sans-organes> <FTR> <9833755>
-<corruption> <FTR> <10001256>
-<cosmica> <FTR> <10000747>
-<cosmopop> <FTR> <10000781>
-<crossover> <FTR> <9950767>
-<crosssoul> <FTR> <9820572>
-<crystalgravity> <FTR> <9983633>
+<cry of viyella> <FTR> <10000760>
 <cyanine> <FTR> <9663636>
-<cyberneciacatharsis> <FTR> <9916288>
-<cycles> <FTR> <10000670>
-<dandelion> <FTR> <10000880>
-<darakunosono> <FTR> <9916117>
-<dataerror> <FTR> <9958986>
-<dazzlehop> <FTR> <9800309>
-<ddd> <FTR> <10000616>
-<defection> <FTR> <9895846>
-<dialnote> <FTR> <10000675>
-<diode> <FTR> <10000675>
-<dottodot> <FTR> <10000688>
-<dreadnought> <FTR> <10001038>
-<dreamgoeson> <FTR> <10000701>
-<dreaminattraction> <FTR> <10001046>
-<drg> <FTR> <10000809>
-<dropdead> <BYD> <9495611>
+<dropdead> <BYD> <9755180>
 <dropdead> <FTR> <9526794>
-<dxfullmetal> <FTR> <9449855>
-<dynitikos> <FTR> <9985732>
-<eccentrictale> <FTR> <10000683>
-<einherjar> <FTR> <9806854>
-<empireofwinter> <FTR> <10000878>
-<enchantedlove> <FTR> <10000747>
-<energysynergymatrix> <FTR> <9675412>
-<equilibrium> <FTR> <9990368>
-<espebranch> <FTR> <9930093>
-<essenceoftwilight> <FTR> <10001127>
-<eveninginscarlet> <FTR> <10000879>
-<evoltex> <FTR> <10000739>
-<faintlight> <FTR> <10000767>
-<fairytale> <BYD> <9845249>
-<fairytale> <FTR> <10000763>
-<fallensquare> <FTR> <9339044>
-<farawaylight> <FTR> <9959604>
-<feelssoright> <FTR> <10000940>
-<filament> <FTR> <9804118>
-<finalstep> <FTR> <9991540>
-<firstsnow> <FTR> <10000551>
-<flashback> <FTR> <10000817>
-<fluffyflash> <FTR> <9809288>
-<flyburg> <FTR> <10000888>
-<freefall> <FTR> <10000979>
-<galacticlove> <FTR> <10000783>
-<galaxyfriends> <FTR> <9739284>
-<gekka> <FTR> <10000770>
-<genesis> <FTR> <10000696>
-<gimmick> <FTR> <9966564>
-<givemeanightmare> <FTR> <10000920>
-<glow> <FTR> <9869807>
+<eden> <FTR> <9829018>
+<enchanted love> <FTR> <10000747>
 <goldenslaughterer> <FTR> <9929531>
-<goodtek> <FTR> <10000929>
-<gothiveofra> <FTR> <9786541>
-<grimheart> <FTR> <10000927>
 <guardina> <FTR> <9862589>
-<hallofmirrors> <FTR> <10000865>
-<harutopia> <FTR> <10000994>
-<headbonkache> <FTR> <9850154>
-<hearditsaid> <FTR> <10000829>
-<heartjackin> <FTR> <9857067>
-<heavenlycaress> <FTR> <9876464>
-<hikari> <FTR> <10000654>
-<hybris> <FTR> <10001114>
-<iconoclast> <FTR> <10000757>
-<impurebird> <FTR> <9957277>
-<infinityheaven> <BYD> <9640729>
-<infinityheaven> <FTR> <10000823>
-<init> <FTR> <9922184>
-<inkarusi> <FTR> <10000452>
-<internetoverdose> <FTR> <10000620>
-<journey> <FTR> <10000945>
-<jump> <FTR> <10000801>
-<kanagawa> <BYD> <9880571>
-<kanagawa> <FTR> <10001050>
-<kokoro> <FTR> <9811544>
-<kyogenkigo> <FTR> <9913157>
-<lapis> <FTR> <10000909>
-<last> <BYD> <9905063>
-<last> <FTR> <9946610>
+<init()> <FTR> <9967881>
+<inkar-usi> <FTR> <10000452>
 <lastendconductor> <BYD> <9971368>
 <lastendconductor> <FTR> <10001157>
-<lasteternity> <BYD> <9627235>
-<lawlesspoint> <FTR> <10000799>
-<lazyaddiction> <FTR> <9933008>
-<lethaeus> <FTR> <9856332>
-<letsrock> <FTR> <9954348>
-<letyoudivermx> <FTR> <10000983>
-<libertas> <FTR> <10000888>
-<lifeispiano> <FTR> <10000606>
-<lightsofmuse> <FTR> <10000557>
-<linearaccelerator> <FTR> <9879254>
-<lostcivilization> <BYD> <9671038>
-<lostcivilization> <FTR> <9929894>
-<lostdesire> <FTR> <9671659>
-<lostemotion> <FTR> <9987709>
-<lostintheabyss> <FTR> <9962928>
-<lovelessdress> <FTR> <9624190>
-<lucifer> <FTR> <10000818>
-<lumia> <BYD> <9884026>
-<lumia> <FTR> <10000921>
-<macromod> <FTR> <9866690>
-<mahoroba> <FTR> <9982679>
-<mantis> <FTR> <9956539>
-<matenrou> <FTR> <9970294>
-<mazenine> <FTR> <10000741>
-<mazymetroplex> <FTR> <9874796>
-<melodyoflove> <FTR> <10000892>
-<memoryfactory> <FTR> <10000629>
-<memoryforest> <FTR> <10000912>
-<merlin> <FTR> <10000679>
-<monochromeprincess> <FTR> <9970077>
-<moonheart> <FTR> <10000902>
-<moonlightofsandcastle> <FTR> <10000627>
-<mu> <FTR> <9790085>
-<mukishitsu> <FTR> <9859696>
-<nekonote> <FTR> <9950295>
-<neokosmo> <FTR> <10000904>
-<nexttoyou> <BYD> <9890802>
-<nexttoyou> <FTR> <10000776>
-<nulctrl> <FTR> <9832794>
-<oblivia> <FTR> <10000913>
-<odysseia> <FTR> <9978129>
-<onefr> <FTR> <10000729>
-<onelastdrive> <FTR> <10000841>
-<oracle> <FTR> <9855483>
+<memoryfactory.lzh> <FTR> <10000629>
+<neo kosmo> <FTR> <10000904>
+<next to you> <BYD> <9890802>
+<next to you> <FTR> <10000776>
 <ouroboros -twin stroke of the end-> <FTR> <9957478>
-<paperwitch> <FTR> <10000761>
-<paradise> <FTR> <10000710>
-<particlearts> <FTR> <10000866>
-<phantasia> <FTR> <9901076>
-<picopicotranslation> <FTR> <9972388>
-<primevaltexture> <FTR> <10000767>
-<prism> <FTR> <10000755>
-<protoflicker> <FTR> <9909765>
-<purgatorium> <BYD> <9763008>
-<purgatorium> <FTR> <10000949>
-<purpleverse> <FTR> <9834708>
-<qualia> <BYD> <9946888>
-<qualia> <FTR> <9966716>
-<quon> <FTR> <9955481>
-<rabbitintheblackroom> <FTR> <10000718>
-<ravenspride> <FTR> <10001011>
-<reconstruction> <FTR> <10000782>
-<reinvent> <FTR> <10000808>
-<relentless> <FTR> <10000986>
-<remindthesouls> <FTR> <9916200>
-<revixy> <FTR> <9962789>
-<rgb> <FTR> <9841870>
-<rise> <FTR> <10000764>
-<romancewars> <FTR> <10000620>
-<rugie> <FTR> <9826503>
-<sacrifice> <FTR> <9933028>
-<sakurafubuki> <FTR> <10000776>
-<sanskia> <FTR> <10001022>
-<sayonarahatsukoi> <FTR> <10000640>
-<scarletcage> <FTR> <9720660>
-<senkyou> <FTR> <10000916>
-<shadesoflight> <BYD> <9952989>
-<shadesoflight> <FTR> <10001033>
-<silentrush> <FTR> <10000893>
-<smallcloud> <FTR> <10000861>
-<snowwhite> <FTR> <10000944>
-<solitarydream> <FTR> <10000921>
-<specta> <FTR> <9950818>
-<stager> <FTR> <9926215>
-<strongholds> <FTR> <9930379>
-<sulfur> <FTR> <10001020>
-<suomi> <FTR> <10000806>
-<supernova> <FTR> <9702562>
-<surrender> <FTR> <10000882>
-<syro> <FTR> <9909746>
+<qualia -ideaesthesia-> <BYD> <9946888>
+<qualia -ideaesthesia-> <FTR> <9966716>
+<san skia> <FTR> <10001022>
 <syuten> <FTR> <10000571>
-<technicolour> <FTR> <9939648>
-<teriqma> <FTR> <9932078>
-<themessage> <FTR> <9930358>
-<theultimacy> <FTR> <9909120>
-<tiemedowngently> <FTR> <10000685>
 <trappola bewitching> <BYD> <9623364>
 <trappola bewitching> <FTR> <9962635>
-<tsukinimurakumo> <FTR> <10000710>
-<turbocharger> <FTR> <9965161>
-<ultimatetaste> <FTR> <9940840>
-<usedtobe> <FTR> <10000741>
-<vandalism> <FTR> <9881400>
-<vector> <FTR> <9974274>
-<vexaria> <BYD> <9841451>
-<vexaria> <FTR> <10000695>
-<vindication> <FTR> <10001021>
-<vividtheory> <FTR> <10000853>
-<viyella> <FTR> <10000760>
-<w4> <FTR> <9390836>
-<waitfordawn> <FTR> <10000829>
-<withu> <FTR> <9957934>
-<worldexecuteme> <FTR> <10000817>
-<worldfragments> <FTR> <10001307>
-<xeraphinite> <FTR> <9991424>
-<yourvoiceso> <FTR> <9961449>
-<yozakurafubuki> <FTR> <10000869>
+<u> <FTR> <9825927>
+<w4> <FTR> <9595431>
+<with U> <FTR> <9957934>
+<world.execute(me);> <FTR> <10000817>
