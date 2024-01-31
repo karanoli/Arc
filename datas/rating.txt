@@ -14,6 +14,7 @@
 11.1
 [FTR]Aegleseeker
 [FTR]Abstruse Dilemma
+[BYD]Vicious Heroism
 11.0
 [FTR]SAIKYO STRONGER
 [BYD]PRAGMATISM
@@ -27,6 +28,7 @@
 [FTR]TEmPTaTiON
 [FTR]CHAOS
 [FTR]TeraVolt
+[BYD]Einherjar Joker
 10.8
 [FTR]World Vanquisher
 [FTR]Ringed Genesis
@@ -61,6 +63,7 @@
 [FTR]NULL APOPHENIA
 [FTR]Manic Jeer
 [FTR]UNKNOWN LEVELS
+[BYD]Purple Verse
 10.5
 [FTR]Last Celebration
 [FTR]Lightning Screw
@@ -74,6 +77,7 @@
 [FTR]eden
 [FTR]XTREME
 [FTR]Wish Upon a Snow
+[FTR]Libertas
 10.4
 [FTR]guardina
 [FTR]Tiferet
@@ -107,7 +111,7 @@
 [FTR]conflict
 [FTR]Malicious Mischance
 [FTR]Loschen
-[BYD]Quon8
+[BYD]Quon (DJ Noriken)
 [FTR]G e n g a o z o
 [FTR]Redolent Shape
 [FTR]Medusa
@@ -160,3 +164,311 @@
 [FTR]INTERNET YAMERO
 [FTR]Amekagura
 [FTR]Nameless Passion
+9.8
+[FTR]Memory Forest
+[FTR]Linear Accelerator
+[FTR]DX Choseinou Full Metal Shojo
+[FTR]Black Territory
+[FTR]Corruption
+[FTR]Heavenly caress
+[FTR]Einherjar Joker
+[FTR]Lost Desire
+[BYD]GOODTEK (Arcaea Edit)
+[FTR]Scarlet Cage
+[FTR]Got hive of Ra
+[FTR]Galaxy Friends
+[FTR]Xeraphinite
+[BYD]Lost Civilization
+[FTR]Far Away Light
+[FTR]THE ULTIMACY
+[FTR]Ascent
+[BYD]Kanagawa Cyber Culvert
+[FTR]Haze of Autumn
+[FTR]init()
+[FTR]Macrocosmic Modulation
+[FTR]Protoflicker
+[FTR]Defection
+[FTR]Callima Karma
+[FTR]Ai Drew
+[FTR]FLUFFY FLASH
+[BYD]FREEF4LL
+[FTR]World Fragments III(radio edit)
+[FTR]Hybris (The one who shattered)
+[FTR]Kanjou no Matenrou ～Arr.Demetori
+[FTR]To the Furthest Dream
+[FTR]Technicolour
+[FTR]Ouverture
+[BYD]Cybernecia Catharsis
+9.7
+[FTR]Lethaeus
+[FTR]The Message
+[FTR]Sulfur
+[FTR]SUPERNOVA
+[FTR]Dreadnought
+[FTR]Monochrome Princess
+[FTR]Filament
+[FTR]BATTLE NO.1
+[FTR]BLRINK
+[FTR]amygdata
+[FTR]Black Lotus
+[FTR]Altale
+[FTR]BADTEK
+[FTR]Heart Jackin'
+[FTR]Dazzle hop
+[BYD]Moonheart
+[FTR]Vandalism
+[FTR]AlterAle
+[FTR]Mazy Metroplex
+[FTR]goldenslaughterer
+[BYD]qualia -ideaesthesia-
+[FTR]neo kosmo
+[FTR]u
+[BYD]Last | Eternity
+[FTR]Let's Rock (Arcaea mix)
+[BYD]Teriqma
+[FTR]Lost in the Abyss
+[FTR]Ultimate taste
+[FTR]SACRIFICE feat. ayame
+[FTR]RGB
+[FTR]B.B.K.K.B.K.K.
+[FTR]Hotarubi no Yuki
+[FTR]Luna Rossa
+[BYD]Oblivia
+9.6
+[FTR]Quon
+[FTR]carmine:scythe
+[FTR]Fallensquare
+[FTR]LunarOrbit -believe in the Espebranch road-
+[FTR]Astral tale
+[FTR]Vindication
+[FTR]A Wandering Melody of Love
+[FTR]Avant Raze
+[BYD]Infinity Heaven
+[BYD]Purgatorium
+[FTR]Purple Verse
+[FTR]Lazy Addiction
+[BYD]next to you
+[FTR]ENERGY SYNERGY MATRIX
+[FTR]Loveless Dress
+[BYD]Last
+[FTR]IMPACT
+[FTR]Stratoliner
+[FTR]Alone & Lorn
+9.5
+[FTR]DataErr0r
+[FTR]Specta
+[FTR]Cybernecia Catharsis
+[FTR]Illegal Paradise
+[PRS]Fracture Ray
+[PRS]dropdead
+[FTR]STAGER (ALL STAGE CLEAR)
+[FTR]OMAKENO Stroke
+[BYD]Fairytale
+[PRS]Tempestissimo
+[FTR]MAHOROBA
+[BYD]Lumia
+[FTR]ODYSSEIA
+[FTR]Evening in Scarlet
+[BYD]Antithese
+[FTR]NULCTRL
+[FTR]GIMMICK
+[FTR]DRG
+[FTR]Remind the Souls (Short Version)
+[FTR]Dynitikos
+[FTR]Transient Space
+[FTR]felys final remix
+[FTR]LIVHT MY WAY
+[FTR]On And On!! feat. Jenga
+9.4
+[FTR]Party Vinyl
+[FTR]CROSS SOUL
+[FTR]Your voice so... feat. Such
+[FTR]Impure Bird
+[FTR]Dreamin' Attraction!!
+[FTR]Red and Blue
+[FTR]Yosakura Fubuki
+[FTR]Be There
+[FTR]VECTOR
+[FTR]AI[UE]OON
+[PRS]SAIKYO STRONGER
+[FTR]Equilibrium
+[FTR]Teriqma
+[FTR]CROSS OVER
+[FTR]Lapis
+[FTR]Crystal Gravity
+[FTR]with U
+[FTR]Let you DIVE! (nitro rmx)
+[FTR]lastendconductor
+[FTR]Final Step!
+[BYD]MERLIN
+[FTR]Head BONK ache
+[PRS]Testify
+[FTR]Raven's Pride
+[PRS]Arghena
+[FTR]FANTA5Y
+[BYD]inkar-usi
+9.3
+[FTR]GOODTEK (Arcaea Edit)
+[FTR]Oracle
+[FTR]Ignotus
+[FTR]Auxesia
+[PRS]Grievous Lady
+[FTR]Syro
+[FTR]Blaster
+[FTR]Feels So Right feat. Renko
+[FTR]Glow
+[FTR]Can I Friend You on Bassbook? Lol
+[FTR]False Embellishment
+[FTR]Blocked Library
+[FTR]Sakura Fubuki
+[FTR]PICO-Pico-Translation!
+[FTR]Heart
+[FTR]MANTIS (Arcaea Ultra-Bloodrush VIP)
+[FTR]Lost Emotion feat. nomico
+[FTR]The Formula
+9.2
+[FTR]Lost Civilization
+[FTR]Anokumene
+[FTR]Strongholds
+[FTR]Rugie
+[FTR]Phantasia
+[FTR]Libertas
+[PRS]#1f1e33
+[FTR]Alice a la mode
+[FTR]Dancin' on a Cat's Paw
+[FTR]Redraw the Colorless World
+[FTR]cocoro*cosmetic
+[FTR]Used to be
+9.1
+[FTR]qualia -ideaesthesia-
+[FTR]Essence of Twilight
+[FTR]Iconoclast
+[FTR]dropdead
+[FTR]La'qryma of the Wasteland
+[FTR]Faint Light (Arcaea Edit)
+[FTR]Alice's Suitcase
+[FTR]Life is PIANO
+[PRS]Aegleseeker
+[FTR]Small Cloud Sugar Candy
+[FTR]Blue Rose
+9.0
+[FTR]Flyburg and Endroll
+[FTR]Kanagawa Cyber Culvert
+[FTR]Empire of Winter
+[FTR]ReviXy
+[FTR]Jump
+[FTR]Turbocharger
+[FTR]Last
+[BYD]Shades of Light in a Transcendent Realm
+[FTR]Galactic Love
+[FTR]Primeval Texture
+8.9
+[FTR]memoryfactory.lzh
+[FTR]Chronostasis
+[FTR]Evoltex (poppi'n mix)
+[FTR]Maze No.9
+[FTR]MERLIN
+[FTR]Give Me a Nightmare
+[FTR]Lawless Point
+8.8
+[FTR]Flashback
+[FTR]Surrender
+[FTR]Journey
+[FTR]next to you
+[FTR]Solitary Dream
+[FTR]Antithese
+[FTR]Particle Arts
+[BYD]Vexaria
+[FTR]Vivid Theory
+[FTR]Coastal Highway
+[FTR]CYCLES
+[FTR]Cosmo Pop Funclub
+8.7
+[FTR]Call My Name feat. Yukacco
+[FTR]Senkyou
+[FTR]Beside You
+[FTR]Paper Witch
+[FTR]Quon (DJ Noriken)
+[FTR]Lights of Muse
+[PRS]Arcana Eden
+[PRS]To the Milky Way
+[FTR]WAIT FOR DAWN
+8.6
+[PRS]PRAGMATISM
+[FTR]Silent Rush
+[FTR]Grimheart
+[FTR]FREEF4LL
+[FTR]Gekka (Short Version)
+[PRS]BUCHiGiRE Berserker
+[PRS]Ego Eimi
+8.5
+[FTR]Babaroque
+[FTR]cry of viyella
+[FTR]Dandelion
+[FTR]Harutopia ~Utopia of Spring~
+[PRS]Axium Crisis
+[FTR]Reinvent
+[FTR]Chelsea
+[PRS]Misdeed -la bonte de Dieu et l'origine du mal-
+[PRS]Overwhelm
+[PRS]GENOCIDER
+[FTR]Cosmica
+[FTR]DDD
+[PRS]Chronicle
+[PRS]PRIMITIVE LIGHTS
+[FTR]syuten
+8.4
+[FTR]Snow White
+[FTR]Lumia
+[FTR]REconstruction
+[FTR]Moonheart
+[FTR]Rabbit In The Black Room
+[FTR]Purgatorium
+[PRS]Cyaegha
+[PRS]Ringed Genesis
+[FTR]Eccentric Tale
+[FTR]enchanted love
+[FTR]INTERNET OVERDOSE
+[PRS]Pentiment
+[FTR]Tsuki ni Murakumo, Hana ni Kaze
+[PRS]II
+[PRS]Abstruse Dilemma
+[PRS]TeraVolt
+8.3
+[FTR]Shades of Light in a Transcendent Realm
+[FTR]Bookmaker (2D Version)
+[PRS]Ether Strike
+[FTR]Dot to Dot feat. shully
+[FTR]Tie me down gently
+[PRS]IZANA
+[FTR]Oblivia
+[FTR]April showers
+[PRS]REKKA RESONANCE
+[FTR]Avril -Flicka i krans-
+[FTR]san skia
+[FTR]Altair (feat. *spiLa*)
+[PRS]LAMIA
+[PRS]Lucid Traveler
+8.2
+[FTR]Lucifer
+[FTR]Genesis
+[FTR]One Last Drive
+[PRS]Halcyon
+[FTR]Hall of Mirrors
+[PRS]Dantalion
+[FTR]1F
+[FTR]blue comet
+[PRS]TEmPTaTiON
+8.1
+[FTR]I've heard it said
+[FTR]Hikari
+[FTR]Diode
+[PRS]Live Fast Die Young
+[FTR]Dialnote
+[FTR]Bullet Waiting for Me (James Landino remix)
+8.0
+[FTR]Relentless
+[FTR]world.execute(me);
+[FTR]Prism
+[PRS]Crimson Throne
+[PRS]eden

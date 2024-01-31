@@ -231,7 +231,7 @@
 <AlterAle> <alterale>
 <Divine Light of Myriad> <divinelight>
 <Mazy Metroplex> <mazymetroplex>
-<Quon8> <quonwacca>
+<Quon (DJ Noriken)> <quonwacca>
 <with U> <withu>
 <GENOCIDER> <genocider>
 <Let you DIVE! (nitro rmx)> <letyoudivermx>
@@ -372,3 +372,6 @@
 <felys final remix> <felys>
 <On And On!! feat. Jenga> <onandon>
 <LIVHT MY WAY> <lightmyway>
+<Hotarubi no Yuki> <hotarubinoyuki>
+<The Formula> <theformula>
+<Luna Rossa> <lunarossa>

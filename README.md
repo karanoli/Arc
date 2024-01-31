@@ -9,7 +9,7 @@
 
 ## 使用方法
 
-将 st3 文件放入 datas 文件夹中，双击 start.bat 即可
+将 st3 文件放入 跟 start.bat 同目录的文件夹中，双击 start.bat 即可
 
 ### 详细操作
 
@@ -19,7 +19,7 @@ https://www.bilibili.com/video/BV1L94y1C7va/
 
 
 
-现最新版本：ver3.0.1
+现最新版本：ver3.1.0
 
 如有Bug,或Arc版本更新，请及时通知我。 karanoli142857@gmail.com
 

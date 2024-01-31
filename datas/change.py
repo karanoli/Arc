@@ -1,7 +1,7 @@
 import sqlite3
 #ftr=2 prs=1 PST=0 BYD=3
 # 连接数据库
-conn = sqlite3.connect('datas\\st3')
+conn = sqlite3.connect('st3')
 f=open("datas\\playdata.txt","w")
 cursor = conn.execute("SELECT songId, songDifficulty, score from scores")
 for row in cursor:
